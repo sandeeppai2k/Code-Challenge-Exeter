@@ -1,0 +1,2106 @@
+Most Frequent Bigrams in Top PagesPage 0 : ('udacity', 'you') : 1
+('you', 'need') : 1
+('need', 'enable') : 1
+('enable', 'javascript') : 1
+('javascript', 'run') : 1
+('run', 'app') : 1
+
+
+Page 1 : ('udacity', 'you') : 1
+('you', 'need') : 1
+('need', 'enable') : 1
+('enable', 'javascript') : 1
+('javascript', 'run') : 1
+('run', 'app') : 1
+
+
+Page 2 : ('dream', 'job') : 4
+('career', 'resource') : 3
+('resource', 'center') : 3
+('for', 'enterprise') : 2
+('sign', 'in') : 2
+('in', 'get') : 2
+('get', 'started') : 2
+('career', 'services') : 2
+('job', 'search') : 2
+('get', 'ready') : 2
+('future', 'employer') : 2
+('find', 'work') : 2
+('work', 'opportunities') : 2
+('job', 'offer') : 2
+('your', 'job') : 2
+('hiring', 'partners') : 2
+('android', 'developer') : 2
+('web', 'developer') : 2
+('selfdriving', 'car') : 2
+('legal', 'privacy') : 2
+
+
+Page 3 : ('403', 'forbidden') : 2
+('forbidden', '403') : 1
+('forbidden', 'nginx') : 1
+
+
+Page 4 : ('security', 'check') : 1
+('check', 'please') : 1
+('please', 'turn') : 1
+('turn', 'javascript') : 1
+('javascript', 'reload') : 1
+('reload', 'page') : 1
+('page', 'please') : 1
+('please', 'enable') : 1
+('enable', 'cookies') : 1
+('cookies', 'rayid') : 1
+('rayid', '5eb8ed337f6e2e5e') : 1
+('5eb8ed337f6e2e5e', 'ip') : 1
+('ip', '17160216119') : 1
+
+
+Page 5 : ('no', 'incidents') : 16
+('2020', 'no') : 15
+('incidents', 'reported') : 15
+('reported', 'oct') : 13
+('terms', 'service') : 4
+('90', 'days') : 4
+('privacy', 'policy') : 3
+('operational', '90') : 3
+('days', 'ago') : 3
+('ago', '1000') : 3
+('1000', 'uptime') : 3
+('uptime', 'today') : 3
+('partial', 'outage') : 3
+('major', 'outage') : 3
+('notifications', 'whenever') : 2
+('whenever', 'udacity') : 2
+('udacity', 'creates') : 2
+('resolves', 'incident') : 2
+('this', 'site') : 2
+('site', 'protected') : 2
+
+
+Page 6 : ('nanodegree', 'program') : 7
+('machine', 'learning') : 4
+('5', '5') : 2
+('khan', 'academy') : 2
+('computer', 'science') : 2
+
+
+Page 7 : ('we', 've') : 1
+('ve', 'detected') : 1
+('detected', 'javascript') : 1
+('javascript', 'disabled') : 1
+('disabled', 'browser') : 1
+('browser', 'would') : 1
+('would', 'like') : 1
+('like', 'proceed') : 1
+('proceed', 'legacy') : 1
+('legacy', 'twitter') : 1
+('twitter', 'yes') : 1
+('yes', 'something') : 1
+('something', 'went') : 1
+('went', 'wrong') : 1
+('wrong', 'fret') : 1
+('fret', 'let') : 1
+('let', 'give') : 1
+('give', 'another') : 1
+('another', 'shot') : 1
+
+
+Page 8 : ('udacity', 'inc') : 3
+('c', 'nanodegree') : 3
+('nanodegree', 'program') : 3
+('engineering', 'marketing') : 3
+('selfdriving', 'car') : 3
+('training', 'center') : 3
+('coding', 'preschool') : 2
+('preschool', 'style') : 2
+('style', 'my') : 2
+('my', 'udacity') : 2
+('udacity', 'grow') : 2
+('grow', 'google') : 2
+('google', 'experience') : 2
+('experience', 'learning') : 2
+('learning', 'code') : 2
+('life', 'udacity') : 2
+('udacity', 'student') : 2
+('student', 'sanjeev') : 2
+('sanjeev', 'yadav') : 2
+('yadav', 'experience') : 2
+
+
+Page 9 : 
+
+Page 10 : ('udacity', 'udacity') : 1
+('udacity', 'instagram') : 1
+('instagram', 'photos') : 1
+('photos', 'videos') : 1
+
+
+Page 11 : ('data', 'science') : 17
+('estimated', 'time') : 12
+('months', '510') : 10
+('510', 'hrsweek') : 10
+('hrsweek', 'data') : 8
+('science', 'new') : 6
+('new', 'data') : 5
+('product', 'manager') : 5
+('time', '3') : 5
+('3', 'months') : 5
+('beginner', '47') : 5
+('machine', 'learning') : 5
+('artificial', 'intelligence') : 4
+('time', '4') : 4
+('4', 'months') : 4
+('programming', 'data') : 4
+('autonomous', 'systems') : 3
+('cloud', 'computing') : 3
+('intermediate', '46') : 3
+('10', 'hrsweek') : 3
+
+
+Page 12 : ('data', 'science') : 17
+('estimated', 'time') : 12
+('months', '510') : 10
+('510', 'hrsweek') : 10
+('hrsweek', 'data') : 8
+('science', 'new') : 6
+('new', 'data') : 5
+('product', 'manager') : 5
+('time', '3') : 5
+('3', 'months') : 5
+('beginner', '47') : 5
+('machine', 'learning') : 5
+('artificial', 'intelligence') : 4
+('time', '4') : 4
+('4', 'months') : 4
+('programming', 'data') : 4
+('autonomous', 'systems') : 3
+('cloud', 'computing') : 3
+('intermediate', '46') : 3
+('10', 'hrsweek') : 3
+
+
+Page 13 : ('â', 'â') : 53
+('nanodegree', 'program') : 17
+('data', 'engineer') : 14
+('data', 'engineering') : 13
+('iconcheckmark', 'checkmark') : 11
+('data', 'pipelines') : 8
+('data', 'science') : 8
+('python', 'sql') : 6
+('machine', 'learning') : 6
+('programming', 'data') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('become', 'data') : 4
+('big', 'data') : 4
+('data', 'models') : 4
+('build', 'data') : 4
+('data', 'warehouses') : 4
+('work', 'massive') : 4
+('massive', 'datasets') : 4
+('realworld', 'projects') : 4
+
+
+Page 14 : ('product', 'manager') : 32
+('nanodegree', 'program') : 26
+('data', 'product') : 16
+('data', 'science') : 12
+('product', 'management') : 11
+('product', 'managers') : 11
+('manager', 'nanodegree') : 11
+('iconcheckmark', 'checkmark') : 10
+('machine', 'learning') : 8
+('data', 'collected') : 6
+('product', 'development') : 5
+('data', 'pipelines') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('ai', 'product') : 5
+('leverage', 'data') : 4
+('build', 'products') : 4
+('right', 'time') : 4
+('data', 'analysis') : 4
+('sql', 'tableau') : 4
+
+
+Page 15 : ('â', 'â') : 53
+('data', 'analyst') : 18
+('nanodegree', 'program') : 11
+('iconcheckmark', 'checkmark') : 11
+('data', 'science') : 10
+('data', 'analysis') : 9
+('machine', 'learning') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('product', 'manager') : 5
+('python', 'sql') : 4
+('numpy', 'pandas') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'scientist') : 4
+('get', 'started') : 3
+('download', 'syllabus') : 3
+('4', 'months') : 3
+('data', 'skills') : 3
+('data', 'wrangling') : 3
+
+
+Page 16 : ('â', 'â') : 53
+('data', 'science') : 27
+('nanodegree', 'program') : 15
+('iconcheckmark', 'checkmark') : 11
+('programming', 'data') : 10
+('python', 'sql') : 8
+('data', 'analyst') : 7
+('science', 'python') : 6
+('school', 'data') : 6
+('command', 'line') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('sql', 'command') : 4
+('line', 'git') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('nanodegree', 'programs') : 4
+('data', 'engineer') : 4
+
+
+Page 17 : ('â', 'â') : 53
+('nanodegree', 'program') : 16
+('product', 'manager') : 10
+('iconcheckmark', 'checkmark') : 10
+('data', 'science') : 8
+('data', 'analyst') : 6
+('machine', 'learning') : 6
+('learn', 'sql') : 5
+('data', 'analysis') : 5
+('relational', 'databases') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('use', 'sql') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('programming', 'data') : 4
+('sql', 'nanodegree') : 4
+('nanodegree', 'programs') : 4
+('get', 'started') : 3
+('master', 'sql') : 3
+
+
+Page 18 : ('â', 'â') : 53
+('nanodegree', 'program') : 14
+('data', 'science') : 12
+('iconcheckmark', 'checkmark') : 11
+('business', 'analytics') : 8
+('data', 'skills') : 7
+('data', 'analyst') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('school', 'data') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('analyze', 'data') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'scientist') : 4
+('analyst', 'data') : 4
+('nanodegree', 'programs') : 4
+('this', 'nanodegree') : 4
+('programming', 'data') : 4
+
+
+Page 19 : ('â', 'â') : 53
+('data', 'structures') : 30
+('structures', 'algorithms') : 20
+('nanodegree', 'program') : 15
+('iconcheckmark', 'checkmark') : 10
+('technical', 'mentor') : 6
+('mentor', 'support') : 6
+('machine', 'learning') : 6
+('content', 'developer') : 5
+('different', 'data') : 4
+('based', 'design') : 4
+('design', 'choices') : 4
+('algorithms', 'learn') : 4
+('realworld', 'projects') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('software', 'engineer') : 4
+('nanodegree', 'programs') : 4
+('algorithms', 'nanodegree') : 4
+('web', 'developer') : 4
+
+
+Page 20 : ('â', 'â') : 53
+('data', 'science') : 26
+('data', 'scientist') : 18
+('machine', 'learning') : 18
+('nanodegree', 'program') : 17
+('iconcheckmark', 'checkmark') : 11
+('data', 'analyst') : 8
+('learning', 'engineer') : 6
+('become', 'data') : 5
+('industry', 'experts') : 5
+('recommendation', 'systems') : 5
+('data', 'scientists') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('the', 'data') : 5
+('scientist', 'nanodegree') : 5
+('data', 'analysis') : 5
+('python', 'sql') : 4
+('data', 'pipelines') : 4
+('design', 'experiments') : 4
+
+
+Page 21 : ('â', 'â') : 53
+('nanodegree', 'program') : 20
+('data', 'streaming') : 15
+('iconcheckmark', 'checkmark') : 10
+('data', 'engineering') : 9
+('data', 'engineer') : 9
+('data', 'science') : 9
+('streaming', 'nanodegree') : 7
+('data', 'realtime') : 6
+('machine', 'learning') : 6
+('programming', 'data') : 6
+('build', 'realtime') : 5
+('python', 'sql') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('data', 'scale') : 4
+('intermediate', 'python') : 4
+('kafka', 'spark') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+
+
+Page 22 : ('â', 'â') : 53
+('data', 'visualization') : 13
+('iconcheckmark', 'checkmark') : 10
+('nanodegree', 'program') : 9
+('data', 'analysis') : 6
+('data', 'science') : 6
+('product', 'manager') : 6
+('machine', 'learning') : 6
+('build', 'data') : 5
+('data', 'analyst') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('datadriven', 'recommendations') : 4
+('data', 'visualizations') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('learning', 'engineer') : 4
+('get', 'started') : 3
+('download', 'syllabus') : 3
+('4', 'months') : 3
+
+
+Page 23 : ('â', 'â') : 53
+('marketing', 'analytics') : 11
+('nanodegree', 'program') : 11
+('iconcheckmark', 'checkmark') : 10
+('google', 'analytics') : 8
+('data', 'science') : 8
+('digital', 'marketing') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('data', 'skills') : 4
+('analytics', 'data') : 4
+('data', 'studio') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('this', 'nanodegree') : 4
+('analysis', 'data') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('foundational', 'data') : 3
+
+
+Page 24 : ('â', 'â') : 53
+('data', 'science') : 26
+('nanodegree', 'program') : 15
+('iconcheckmark', 'checkmark') : 11
+('programming', 'data') : 9
+('r', 'sql') : 8
+('data', 'analyst') : 7
+('science', 'r') : 6
+('school', 'data') : 6
+('command', 'line') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('sql', 'command') : 4
+('line', 'git') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('nanodegree', 'programs') : 4
+('data', 'engineer') : 4
+
+
+Page 25 : ('product', 'manager') : 18
+('data', 'science') : 16
+('machine', 'learning') : 12
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('programming', 'data') : 7
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('school', 'business') : 6
+('free', 'courses') : 6
+('cloud', 'developer') : 5
+
+
+Page 26 : ('udacity', 'helped') : 76
+('nanodegree', 'program') : 54
+('new', 'job') : 29
+('android', 'developer') : 27
+('udacity', 'i') : 26
+('i', 'able') : 25
+('program', 'i') : 19
+('at', 't') : 16
+('i', 'got') : 16
+('helped', 'get') : 16
+('i', 'm') : 15
+('machine', 'learning') : 14
+('i', 'needed') : 13
+('helped', 'learn') : 13
+('i', 'learned') : 13
+('android', 'development') : 13
+('skills', 'i') : 13
+('data', 'analyst') : 11
+('new', 'career') : 10
+('data', 'science') : 10
+
+
+Page 27 : ('hybrid', 'cloud') : 20
+('nanodegree', 'program') : 13
+('iconcheckmark', 'checkmark') : 11
+('cloud', 'engineer') : 10
+('cloud', 'infrastructure') : 7
+('cloud', 'technology') : 6
+('private', 'cloud') : 6
+('product', 'manager') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('infrastructure', 'applications') : 4
+('virtual', 'machines') : 4
+('this', 'nanodegree') : 4
+('cloud', 'computing') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('engineer', 'cloud') : 4
+('web', 'developer') : 4
+('data', 'science') : 4
+
+
+Page 28 : ('machine', 'learning') : 49
+('nanodegree', 'program') : 13
+('microsoft', 'azure') : 12
+('learning', 'engineer') : 10
+('iconcheckmark', 'checkmark') : 10
+('engineer', 'microsoft') : 9
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('data', 'science') : 5
+('practical', 'experience') : 4
+('azure', 'machine') : 4
+('ai', 'programming') : 4
+('programming', 'python') : 4
+('realworld', 'projects') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('strengthen', 'machine') : 3
+('learning', 'skills') : 3
+
+
+Page 29 : ('microsoft', 'azure') : 17
+('nanodegree', 'program') : 12
+('iconcheckmark', 'checkmark') : 10
+('developer', 'microsoft') : 9
+('cloud', 'computing') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('cloud', 'services') : 4
+('azure', 'nanodegree') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('software', 'engineer') : 4
+('web', 'developer') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('learn', 'build') : 3
+('applications', 'microsoft') : 3
+('azure', 'cloud') : 3
+
+
+Page 30 : ('nanodegree', 'program') : 17
+('rpa', 'developer') : 15
+('iconcheckmark', 'checkmark') : 10
+('developer', 'nanodegree') : 7
+('the', 'rpa') : 6
+('microsoft', 'applications') : 5
+('best', 'practices') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('youâll', 'learn') : 4
+('intro', 'programming') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('hardware', 'software') : 4
+('software', 'requirements') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+('data', 'manipulation') : 3
+('professionallevel', 'skills') : 3
+
+
+Page 31 : ('nanodegree', 'program') : 13
+('software', 'development') : 13
+('iconcheckmark', 'checkmark') : 10
+('agile', 'software') : 9
+('using', 'agile') : 7
+('product', 'manager') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('best', 'practices') : 4
+('high', 'performing') : 4
+('agile', 'techniques') : 4
+('agile', 'frameworks') : 4
+('course', 'students') : 4
+('the', 'agile') : 4
+('agile', 'delivery') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('delivery', 'lead') : 4
+('web', 'developer') : 4
+
+
+Page 32 : ('data', 'science') : 45
+('executive', 'program') : 19
+('business', 'leaders') : 15
+('science', 'business') : 13
+('machine', 'learning') : 10
+('artificial', 'intelligence') : 5
+('human', 'capital') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('capstone', 'project') : 4
+('times', 'likely') : 4
+('personal', 'career') : 4
+('career', 'coach') : 4
+('career', 'services') : 4
+('months', 'access') : 4
+('this', 'program') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('download', 'syllabus') : 3
+('4', '8') : 3
+
+
+Page 33 : ('microsoft', 'azure') : 17
+('devops', 'engineer') : 11
+('nanodegree', 'program') : 11
+('engineer', 'microsoft') : 10
+('iconcheckmark', 'checkmark') : 10
+('machine', 'learning') : 8
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('data', 'science') : 5
+('cloud', 'services') : 4
+('cloud', 'concepts') : 4
+('cloud', 'computing') : 4
+('azure', 'nanodegree') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('azure', 'learn') : 3
+('95', 'fortune') : 3
+('fortune', '500') : 3
+
+
+Page 34 : ('nanodegree', 'program') : 11
+('iconcheckmark', 'checkmark') : 10
+('introduction', 'cybersecurity') : 9
+('computer', 'systems') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('field', 'cybersecurity') : 4
+('cybersecurity', 'nanodegree') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+('foundational', 'skills') : 3
+('evaluate', 'maintain') : 3
+('maintain', 'monitor') : 3
+('monitor', 'security') : 3
+('security', 'computer') : 3
+('network', 'connectivity') : 3
+
+
+Page 35 : ('nanodegree', 'program') : 12
+('iconcheckmark', 'checkmark') : 10
+('intermediate', 'javascript') : 9
+('web', 'developer') : 8
+('front', 'end') : 7
+('end', 'web') : 6
+('popular', 'programming') : 5
+('programming', 'language') : 5
+('web', 'development') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('learn', 'intermediate') : 4
+('roles', 'web') : 4
+('development', 'serverside') : 4
+('serverside', 'application') : 4
+('application', 'development') : 4
+('development', 'desktop') : 4
+('desktop', 'development') : 4
+('prepare', 'students') : 4
+
+
+Page 36 : ('product', 'manager') : 47
+('nanodegree', 'program') : 47
+('growth', 'product') : 40
+('manager', 'nanodegree') : 27
+('product', 'managers') : 25
+('monetization', 'strategy') : 17
+('product', 'management') : 15
+('iconcheckmark', 'checkmark') : 10
+('nanodegree', 'programs') : 6
+('technical', 'mentor') : 6
+('mentor', 'support') : 6
+('get', 'started') : 5
+('complete', 'growth') : 5
+('premium', 'value') : 5
+('personal', 'career') : 5
+('career', 'services') : 5
+('data', 'product') : 5
+('data', 'science') : 5
+('machine', 'learning') : 5
+('strategy', 'course') : 4
+
+
+Page 37 : ('product', 'manager') : 44
+('growth', 'product') : 38
+('nanodegree', 'program') : 36
+('product', 'managers') : 25
+('manager', 'nanodegree') : 21
+('product', 'management') : 11
+('iconcheckmark', 'checkmark') : 10
+('monetization', 'strategy') : 8
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('nanodegree', 'programs') : 5
+('machine', 'learning') : 5
+('personal', 'career') : 4
+('career', 'services') : 4
+('this', 'program') : 4
+('program', 'equip') : 4
+('experienced', 'product') : 4
+('managers', 'growth') : 4
+('the', 'growth') : 4
+('data', 'product') : 4
+
+
+Page 38 : ('nanodegree', 'program') : 16
+('web', 'developer') : 13
+('iconcheckmark', 'checkmark') : 10
+('java', 'web') : 8
+('using', 'java') : 5
+('realworld', 'projects') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('become', 'java') : 4
+('deploy', 'backend') : 4
+('backend', 'infrastructure') : 4
+('infrastructure', 'using') : 4
+('developer', 'nanodegree') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('full', 'stack') : 4
+('stack', 'web') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+
+
+Page 39 : ('product', 'manager') : 32
+('nanodegree', 'program') : 26
+('data', 'product') : 16
+('data', 'science') : 12
+('product', 'management') : 11
+('product', 'managers') : 11
+('manager', 'nanodegree') : 11
+('iconcheckmark', 'checkmark') : 10
+('machine', 'learning') : 8
+('data', 'collected') : 6
+('product', 'development') : 5
+('data', 'pipelines') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('ai', 'product') : 5
+('leverage', 'data') : 4
+('build', 'products') : 4
+('right', 'time') : 4
+('data', 'analysis') : 4
+('sql', 'tableau') : 4
+
+
+Page 40 : ('â', 'â') : 53
+('nanodegree', 'program') : 16
+('product', 'manager') : 10
+('iconcheckmark', 'checkmark') : 10
+('data', 'science') : 8
+('data', 'analyst') : 6
+('machine', 'learning') : 6
+('learn', 'sql') : 5
+('data', 'analysis') : 5
+('relational', 'databases') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('use', 'sql') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('programming', 'data') : 4
+('sql', 'nanodegree') : 4
+('nanodegree', 'programs') : 4
+('get', 'started') : 3
+('master', 'sql') : 3
+
+
+Page 41 : ('â', 'â') : 53
+('machine', 'learning') : 28
+('nanodegree', 'program') : 19
+('ai', 'healthcare') : 10
+('iconcheckmark', 'checkmark') : 10
+('medical', 'imaging') : 8
+('data', 'science') : 8
+('data', 'scientist') : 7
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('patient', 'outcomes') : 5
+('3d', 'medical') : 5
+('ehr', 'data') : 5
+('deep', 'learning') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('transform', 'patient') : 4
+('learning', 'build') : 4
+('wearable', 'devices') : 4
+('applying', 'ai') : 4
+
+
+Page 42 : ('â', 'â') : 53
+('nanodegree', 'program') : 18
+('cloud', 'architect') : 17
+('aws', 'cloud') : 13
+('cloud', 'computing') : 11
+('iconcheckmark', 'checkmark') : 10
+('cloud', 'infrastructure') : 8
+('devops', 'engineer') : 7
+('cloud', 'developer') : 6
+('plan', 'design') : 5
+('high', 'availability') : 5
+('best', 'practices') : 5
+('cloud', 'devops') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('solutions', 'architect') : 5
+('machine', 'learning') : 5
+('s', 'cloud') : 4
+('computing', 'strategy') : 4
+('strategy', 'aws') : 4
+
+
+Page 43 : ('â', 'â') : 53
+('deep', 'learning') : 31
+('computer', 'vision') : 22
+('edge', 'ai') : 17
+('intelâ', 'distribution') : 15
+('distribution', 'openvinoâ') : 15
+('openvinoâ', 'toolkit') : 15
+('nanodegree', 'program') : 13
+('machine', 'learning') : 13
+('iconcheckmark', 'checkmark') : 11
+('ai', 'iot') : 9
+('iot', 'developers') : 9
+('devcloud', 'edge') : 8
+('intelâ', 'edge') : 7
+('vision', 'deep') : 7
+('learning', 'models') : 7
+('intelâ', 'devcloud') : 7
+('learning', 'engineer') : 7
+('the', 'intelâ') : 7
+('learning', 'inference') : 6
+
+
+Page 44 : ('â', 'â') : 53
+('product', 'manager') : 25
+('iconcheckmark', 'checkmark') : 10
+('nanodegree', 'program') : 9
+('product', 'development') : 6
+('product', 'strategy') : 5
+('product', 'managers') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('this', 'program') : 5
+('machine', 'learning') : 5
+('based', 'market') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'science') : 4
+('get', 'started') : 3
+('become', 'product') : 3
+('industrydefining', 'products') : 3
+('bring', 'market') : 3
+('4', 'months') : 3
+
+
+Page 45 : ('â', 'â') : 53
+('executive', 'program') : 24
+('machine', 'learning') : 23
+('business', 'leaders') : 17
+('artificial', 'intelligence') : 16
+('ai', 'business') : 13
+('data', 'science') : 8
+('leaders', 'executive') : 8
+('use', 'cases') : 6
+('nanodegree', 'program') : 6
+('implement', 'ai') : 5
+('capstone', 'project') : 5
+('product', 'manager') : 5
+('this', 'program') : 5
+('program', 'ai') : 4
+('learning', 'engineer') : 4
+('career', 'services') : 4
+('months', 'access') : 4
+('ai', 'pm') : 4
+('pm', 'nanodegree') : 4
+
+
+Page 46 : ('â', 'â') : 53
+('machine', 'learning') : 45
+('nanodegree', 'program') : 17
+('intro', 'machine') : 14
+('iconcheckmark', 'checkmark') : 11
+('learning', 'engineer') : 8
+('nanodegree', 'programs') : 8
+('learning', 'tensorflow') : 7
+('data', 'science') : 7
+('learning', 'techniques') : 6
+('this', 'program') : 6
+('deep', 'learning') : 6
+('foundational', 'machine') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('python', 'programming') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('engineer', 'nanodegree') : 4
+('product', 'manager') : 4
+
+
+Page 47 : ('â', 'â') : 53
+('nanodegree', 'program') : 20
+('data', 'streaming') : 15
+('iconcheckmark', 'checkmark') : 10
+('data', 'engineering') : 9
+('data', 'engineer') : 9
+('data', 'science') : 9
+('streaming', 'nanodegree') : 7
+('data', 'realtime') : 6
+('machine', 'learning') : 6
+('programming', 'data') : 6
+('build', 'realtime') : 5
+('python', 'sql') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('data', 'scale') : 4
+('intermediate', 'python') : 4
+('kafka', 'spark') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+
+
+Page 48 : ('â', 'â') : 53
+('ux', 'designer') : 10
+('iconcheckmark', 'checkmark') : 10
+('nanodegree', 'program') : 9
+('machine', 'learning') : 6
+('user', 'experiences') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('this', 'program') : 5
+('product', 'manager') : 5
+('ux', 'design') : 4
+('user', 'research') : 4
+('youâll', 'learn') : 4
+('ux', 'portfolio') : 4
+('webbased', 'platforms') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('web', 'developer') : 4
+('data', 'science') : 4
+('user', 'experience') : 3
+
+
+Page 49 : ('â', 'â') : 53
+('machine', 'learning') : 14
+('product', 'manager') : 13
+('ai', 'product') : 11
+('iconcheckmark', 'checkmark') : 10
+('nanodegree', 'program') : 9
+('ai', 'products') : 5
+('business', 'value') : 5
+('data', 'set') : 5
+('learning', 'models') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('this', 'program') : 5
+('become', 'ai') : 4
+('youâll', 'learn') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('learning', 'engineer') : 4
+('product', 'managers') : 4
+('data', 'science') : 4
+
+
+Page 50 : ('â', 'â') : 53
+('sensor', 'fusion') : 14
+('nanodegree', 'program') : 14
+('iconcheckmark', 'checkmark') : 11
+('fusion', 'engineer') : 10
+('selfdriving', 'cars') : 9
+('kalman', 'filters') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('lidar', 'point') : 4
+('camera', 'images') : 4
+('detect', 'track') : 4
+('engineer', 'nanodegree') : 4
+('linear', 'algebra') : 4
+('intro', 'selfdriving') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'science') : 4
+
+
+Page 51 : ('â', 'â') : 53
+('data', 'visualization') : 13
+('iconcheckmark', 'checkmark') : 10
+('nanodegree', 'program') : 9
+('data', 'analysis') : 6
+('data', 'science') : 6
+('product', 'manager') : 6
+('machine', 'learning') : 6
+('build', 'data') : 5
+('data', 'analyst') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('datadriven', 'recommendations') : 4
+('data', 'visualizations') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('learning', 'engineer') : 4
+('get', 'started') : 3
+('download', 'syllabus') : 3
+('4', 'months') : 3
+
+
+Page 52 : ('â', 'â') : 53
+('nanodegree', 'program') : 13
+('iconcheckmark', 'checkmark') : 10
+('cloud', 'developer') : 9
+('full', 'stack') : 8
+('web', 'developer') : 6
+('machine', 'learning') : 6
+('web', 'development') : 5
+('cloud', 'computing') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('become', 'cloud') : 4
+('software', 'development') : 4
+('stack', 'apps') : 4
+('best', 'practices') : 4
+('developer', 'nanodegree') : 4
+('realworld', 'projects') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'science') : 4
+
+
+Page 53 : ('â', 'â') : 53
+('devops', 'engineer') : 10
+('iconcheckmark', 'checkmark') : 10
+('nanodegree', 'program') : 8
+('machine', 'learning') : 8
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('data', 'science') : 5
+('cloud', 'devops') : 4
+('linux', 'command') : 4
+('command', 'line') : 4
+('cloud', 'computing') : 4
+('youâll', 'learn') : 4
+('realworld', 'projects') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('download', 'syllabus') : 3
+('4', 'months') : 3
+
+
+Page 54 : ('â', 'â') : 53
+('nanodegree', 'program') : 18
+('iconcheckmark', 'checkmark') : 10
+('selfdriving', 'cars') : 7
+('c', 'developer') : 5
+('realworld', 'projects') : 5
+('c', 'nanodegree') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('nanodegree', 'programs') : 5
+('robotics', 'software') : 5
+('machine', 'learning') : 5
+('learn', 'c') : 4
+('become', 'c') : 4
+('programming', 'language') : 4
+('objectoriented', 'programming') : 4
+('program', 'learn') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('selfdriving', 'car') : 4
+
+
+Page 55 : ('â', 'â') : 53
+('data', 'structures') : 30
+('structures', 'algorithms') : 20
+('nanodegree', 'program') : 15
+('iconcheckmark', 'checkmark') : 10
+('technical', 'mentor') : 6
+('mentor', 'support') : 6
+('machine', 'learning') : 6
+('content', 'developer') : 5
+('different', 'data') : 4
+('based', 'design') : 4
+('design', 'choices') : 4
+('algorithms', 'learn') : 4
+('realworld', 'projects') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('software', 'engineer') : 4
+('nanodegree', 'programs') : 4
+('algorithms', 'nanodegree') : 4
+('web', 'developer') : 4
+
+
+Page 56 : ('â', 'â') : 53
+('marketing', 'analytics') : 11
+('nanodegree', 'program') : 11
+('iconcheckmark', 'checkmark') : 10
+('google', 'analytics') : 8
+('data', 'science') : 8
+('digital', 'marketing') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('data', 'skills') : 4
+('analytics', 'data') : 4
+('data', 'studio') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('this', 'nanodegree') : 4
+('analysis', 'data') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('foundational', 'data') : 3
+
+
+Page 57 : ('â', 'â') : 53
+('nanodegree', 'program') : 17
+('data', 'engineer') : 14
+('data', 'engineering') : 13
+('iconcheckmark', 'checkmark') : 11
+('data', 'pipelines') : 8
+('data', 'science') : 8
+('python', 'sql') : 6
+('machine', 'learning') : 6
+('programming', 'data') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('become', 'data') : 4
+('big', 'data') : 4
+('data', 'models') : 4
+('build', 'data') : 4
+('data', 'warehouses') : 4
+('work', 'massive') : 4
+('massive', 'datasets') : 4
+('realworld', 'projects') : 4
+
+
+Page 58 : ('â', 'â') : 53
+('android', 'basics') : 15
+('nanodegree', 'program') : 13
+('iconcheckmark', 'checkmark') : 11
+('android', 'apps') : 8
+('android', 'studio') : 7
+('programming', 'experience') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('basics', 'nanodegree') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('nanodegree', 'programs') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+('download', 'syllabus') : 3
+('3', 'months') : 3
+('experience', 'required') : 3
+
+
+Page 59 : ('nanodegree', 'program') : 14
+('android', 'developer') : 12
+('iconcheckmark', 'checkmark') : 10
+('developer', 'advocate') : 9
+('android', 'kotlin') : 7
+('kotlin', 'developer') : 7
+('android', 'studio') : 7
+('android', 'apps') : 7
+('machine', 'learning') : 7
+('android', 'app') : 6
+('mobile', 'platform') : 5
+('android', 'basics') : 5
+('advocate', 'google') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('app', 'development') : 4
+('popular', 'mobile') : 4
+('android', 'development') : 4
+('best', 'practices') : 4
+('basics', 'nanodegree') : 4
+
+
+Page 60 : ('â', 'â') : 53
+('ios', 'developer') : 12
+('iconcheckmark', 'checkmark') : 11
+('nanodegree', 'program') : 10
+('swift', 'programming') : 9
+('programming', 'language') : 7
+('ios', 'apps') : 6
+('ios', 'app') : 5
+('git', 'github') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('app', 'development') : 4
+('youâd', 'like') : 4
+('free', 'course') : 4
+('this', 'nanodegree') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+
+
+Page 61 : ('â', 'â') : 53
+('nanodegree', 'program') : 14
+('data', 'science') : 12
+('iconcheckmark', 'checkmark') : 11
+('business', 'analytics') : 8
+('data', 'skills') : 7
+('data', 'analyst') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('school', 'data') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('analyze', 'data') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'scientist') : 4
+('analyst', 'data') : 4
+('nanodegree', 'programs') : 4
+('this', 'nanodegree') : 4
+('programming', 'data') : 4
+
+
+Page 62 : ('â', 'â') : 53
+('data', 'analyst') : 18
+('nanodegree', 'program') : 11
+('iconcheckmark', 'checkmark') : 11
+('data', 'science') : 10
+('data', 'analysis') : 9
+('machine', 'learning') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('product', 'manager') : 5
+('python', 'sql') : 4
+('numpy', 'pandas') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'scientist') : 4
+('get', 'started') : 3
+('download', 'syllabus') : 3
+('4', 'months') : 3
+('data', 'skills') : 3
+('data', 'wrangling') : 3
+
+
+Page 63 : ('â', 'â') : 53
+('front', 'end') : 22
+('end', 'web') : 21
+('web', 'developer') : 21
+('nanodegree', 'program') : 15
+('iconcheckmark', 'checkmark') : 10
+('developer', 'nanodegree') : 6
+('html', 'css') : 5
+('nanodegree', 'programs') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('full', 'stack') : 5
+('web', 'development') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('websites', 'using') : 4
+('intro', 'programming') : 4
+('version', 'control') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+
+
+Page 64 : ('â', 'â') : 53
+('web', 'developer') : 22
+('full', 'stack') : 21
+('stack', 'web') : 19
+('nanodegree', 'program') : 19
+('developer', 'nanodegree') : 10
+('iconcheckmark', 'checkmark') : 10
+('web', 'applications') : 6
+('machine', 'learning') : 6
+('front', 'end') : 6
+('end', 'web') : 6
+('nanodegree', 'programs') : 5
+('python', 'programming') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('data', 'science') : 5
+('get', 'started') : 4
+('intro', 'programming') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+
+
+Page 65 : ('â', 'â') : 53
+('nanodegree', 'program') : 21
+('iconcheckmark', 'checkmark') : 10
+('intro', 'programming') : 7
+('web', 'developer') : 7
+('machine', 'learning') : 6
+('programming', 'nanodegree') : 6
+('data', 'science') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('developer', 'nanodegree') : 5
+('introduction', 'programming') : 4
+('program', 'learn') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('web', 'development') : 4
+('nanodegree', 'programs') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('this', 'program') : 3
+
+
+Page 66 : ('â', 'â') : 53
+('machine', 'learning') : 42
+('nanodegree', 'program') : 17
+('intro', 'machine') : 13
+('iconcheckmark', 'checkmark') : 11
+('learning', 'engineer') : 8
+('data', 'science') : 7
+('nanodegree', 'programs') : 7
+('learning', 'pytorch') : 6
+('this', 'program') : 6
+('deep', 'learning') : 6
+('learning', 'techniques') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('foundational', 'machine') : 4
+('python', 'programming') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('engineer', 'nanodegree') : 4
+('product', 'manager') : 4
+
+
+Page 67 : ('â', 'â') : 53
+('machine', 'learning') : 51
+('learning', 'engineer') : 15
+('nanodegree', 'program') : 14
+('iconcheckmark', 'checkmark') : 11
+('data', 'science') : 7
+('engineer', 'nanodegree') : 7
+('learning', 'techniques') : 6
+('learning', 'algorithms') : 6
+('production', 'environment') : 5
+('this', 'program') : 5
+('learning', 'models') : 5
+('intro', 'machine') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('learn', 'advanced') : 4
+('advanced', 'machine') : 4
+('models', 'production') : 4
+('amazon', 'sagemaker') : 4
+('personal', 'career') : 4
+
+
+Page 68 : ('â', 'â') : 53
+('nanodegree', 'program') : 21
+('predictive', 'analytics') : 18
+('analytics', 'business') : 12
+('iconcheckmark', 'checkmark') : 11
+('business', 'analytics') : 7
+('data', 'science') : 7
+('business', 'problems') : 6
+('in', 'course') : 6
+('data', 'analyst') : 6
+('data', 'wrangling') : 5
+('course', 'learn') : 5
+('business', 'analyst') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('nanodegree', 'programs') : 5
+('product', 'manager') : 5
+('school', 'data') : 5
+('machine', 'learning') : 5
+('business', 'intelligence') : 4
+
+
+Page 69 : ('â', 'â') : 53
+('data', 'science') : 27
+('nanodegree', 'program') : 15
+('iconcheckmark', 'checkmark') : 11
+('programming', 'data') : 10
+('python', 'sql') : 8
+('data', 'analyst') : 7
+('science', 'python') : 6
+('school', 'data') : 6
+('command', 'line') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('sql', 'command') : 4
+('line', 'git') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('nanodegree', 'programs') : 4
+('data', 'engineer') : 4
+
+
+Page 70 : ('â', 'â') : 53
+('data', 'science') : 26
+('nanodegree', 'program') : 15
+('iconcheckmark', 'checkmark') : 11
+('programming', 'data') : 9
+('r', 'sql') : 8
+('data', 'analyst') : 7
+('science', 'r') : 6
+('school', 'data') : 6
+('command', 'line') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('sql', 'command') : 4
+('line', 'git') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('nanodegree', 'programs') : 4
+('data', 'engineer') : 4
+
+
+Page 71 : ('â', 'â') : 53
+('nanodegree', 'program') : 20
+('iconcheckmark', 'checkmark') : 10
+('react', 'nanodegree') : 8
+('react', 'native') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('machine', 'learning') : 5
+('personal', 'career') : 4
+('career', 'services') : 4
+('web', 'developer') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('download', 'syllabus') : 3
+('4', 'months') : 3
+('user', 'interfaces') : 3
+('ios', 'android') : 3
+('native', 'you') : 3
+('you', 'll') : 3
+
+
+Page 72 : ('â', 'â') : 53
+('nanodegree', 'program') : 20
+('artificial', 'intelligence') : 13
+('iconcheckmark', 'checkmark') : 10
+('machine', 'learning') : 8
+('data', 'structures') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('learning', 'engineer') : 5
+('python', 'programming') : 4
+('structures', 'algorithms') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'science') : 4
+('product', 'manager') : 4
+('get', 'started') : 3
+('peter', 'norvig') : 3
+('download', 'syllabus') : 3
+('3', 'months') : 3
+('this', 'program') : 3
+
+
+Page 73 : ('â', 'â') : 53
+('deep', 'learning') : 20
+('nanodegree', 'program') : 11
+('iconcheckmark', 'checkmark') : 11
+('machine', 'learning') : 10
+('neural', 'networks') : 8
+('artificial', 'intelligence') : 6
+('networks', 'learn') : 5
+('sentiment', 'analysis') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('nanodegree', 'programs') : 5
+('get', 'started') : 4
+('generative', 'adversarial') : 4
+('this', 'program') : 4
+('analysis', 'model') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('learning', 'engineer') : 4
+('computer', 'science') : 4
+
+
+Page 74 : ('â', 'â') : 53
+('digital', 'marketing') : 19
+('social', 'media') : 17
+('nanodegree', 'program') : 13
+('iconcheckmark', 'checkmark') : 11
+('in', 'course') : 8
+('course', 'learn') : 7
+('digital', 'marketer') : 6
+('marketing', 'nanodegree') : 6
+('search', 'engine') : 6
+('display', 'advertising') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('marketing', 'manager') : 5
+('machine', 'learning') : 5
+('get', 'started') : 4
+('learn', 'create') : 4
+('personal', 'career') : 4
+('career', 'services') : 4
+('data', 'science') : 4
+
+
+Page 75 : ('â', 'â') : 53
+('nanodegree', 'program') : 30
+('flying', 'car') : 17
+('engineer', 'nanodegree') : 13
+('iconcheckmark', 'checkmark') : 10
+('machine', 'learning') : 9
+('software', 'engineer') : 8
+('autonomous', 'flight') : 7
+('selfdriving', 'cars') : 7
+('car', 'nanodegree') : 7
+('robotics', 'software') : 7
+('car', 'autonomous') : 6
+('flight', 'engineer') : 6
+('nanodegree', 'programs') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('artificial', 'intelligence') : 5
+('selfdriving', 'car') : 5
+('data', 'science') : 5
+('get', 'started') : 4
+
+
+Page 76 : ('â', 'â') : 53
+('nanodegree', 'program') : 21
+('selfdriving', 'cars') : 19
+('selfdriving', 'car') : 17
+('intro', 'selfdriving') : 12
+('machine', 'learning') : 10
+('iconcheckmark', 'checkmark') : 10
+('cars', 'nanodegree') : 9
+('car', 'engineer') : 8
+('engineer', 'nanodegree') : 7
+('nanodegree', 'programs') : 6
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('data', 'science') : 5
+('this', 'program') : 5
+('personal', 'career') : 4
+('career', 'services') : 4
+('software', 'engineer') : 4
+('autonomous', 'systems') : 4
+('product', 'manager') : 4
+
+
+Page 77 : ('â', 'â') : 53
+('nanodegree', 'program') : 26
+('robotics', 'software') : 23
+('software', 'engineer') : 19
+('engineer', 'nanodegree') : 15
+('iconcheckmark', 'checkmark') : 10
+('core', 'robotics') : 7
+('machine', 'learning') : 7
+('localization', 'mapping') : 6
+('mapping', 'slam') : 6
+('path', 'planning') : 6
+('robotics', 'algorithms') : 6
+('robotics', 'skills') : 6
+('ros', 'gazebo') : 5
+('planning', 'navigation') : 5
+('selfdriving', 'cars') : 5
+('technical', 'mentor') : 5
+('mentor', 'support') : 5
+('selfdriving', 'car') : 5
+('c', 'ros') : 5
+
+
+Page 78 : ('machine', 'learning') : 47
+('concepts', 'covered') : 32
+('deep', 'learning') : 29
+('artificial', 'intelligence') : 18
+('learning', 'engineer') : 18
+('neural', 'networks') : 17
+('learn', 'more') : 15
+('more', 'â') : 15
+('â', 'â') : 14
+('â', 'new') : 13
+('new', 'program') : 13
+('supervised', 'learning') : 11
+('learning', 'unsupervised') : 11
+('unsupervised', 'learning') : 11
+('intro', 'machine') : 8
+('get', 'started') : 7
+('learning', 'supervised') : 7
+('learning', 'deep') : 7
+('programming', 'python') : 7
+('learning', 'intermediate') : 7
+
+
+Page 79 : ('concepts', 'covered') : 19
+('machine', 'learning') : 12
+('selfdriving', 'cars') : 11
+('car', 'engineer') : 10
+('computer', 'vision') : 9
+('covered', 'computer') : 8
+('selfdriving', 'car') : 8
+('get', 'started') : 7
+('learn', 'more') : 7
+('more', 'â') : 7
+('intro', 'selfdriving') : 6
+('â', 'â') : 6
+('data', 'structures') : 6
+('structures', 'algorithms') : 6
+('deep', 'learning') : 6
+('vision', 'machine') : 5
+('learning', 'vehicle') : 5
+('vehicle', 'motion') : 5
+('motion', 'control') : 5
+('â', 'new') : 5
+
+
+Page 80 : ('concepts', 'covered') : 17
+('digital', 'marketing') : 14
+('learn', 'more') : 13
+('more', 'â') : 13
+('â', 'â') : 12
+('â', 'new') : 11
+('new', 'program') : 11
+('data', 'science') : 7
+('machine', 'learning') : 7
+('product', 'manager') : 7
+('get', 'started') : 6
+('search', 'engine') : 6
+('data', 'visualization') : 5
+('nanodegree', 'program') : 5
+('business', 'leaders') : 4
+('business', 'analytics') : 4
+('digital', 'marketer') : 4
+('marketing', 'nanodegree') : 4
+('program', 'read') : 4
+('read', 'success') : 4
+
+
+Page 81 : ('concepts', 'covered') : 25
+('data', 'science') : 20
+('learn', 'more') : 13
+('more', 'â') : 13
+('data', 'analyst') : 13
+('â', 'â') : 12
+('covered', 'data') : 12
+('machine', 'learning') : 11
+('â', 'new') : 11
+('new', 'program') : 11
+('programming', 'data') : 10
+('get', 'started') : 8
+('data', 'visualization') : 8
+('data', 'wrangling') : 8
+('program', 'data') : 6
+('sql', 'git') : 6
+('science', 'python') : 6
+('product', 'manager') : 5
+('data', 'streaming') : 5
+('data', 'scientist') : 5
+
+
+Page 82 : ('concepts', 'covered') : 44
+('nanodegree', 'program') : 36
+('web', 'developer') : 25
+('data', 'structures') : 23
+('structures', 'algorithms') : 22
+('developer', 'nanodegree') : 20
+('learn', 'more') : 18
+('more', 'â') : 18
+('â', 'â') : 17
+('â', 'new') : 15
+('new', 'program') : 15
+('covered', 'data') : 14
+('success', 'story') : 14
+('introduction', 'programming') : 12
+('android', 'basics') : 12
+('program', 'read') : 12
+('read', 'success') : 12
+('full', 'stack') : 11
+('ios', 'developer') : 11
+('get', 'started') : 10
+
+
+Page 83 : ('concepts', 'covered') : 12
+('cloud', 'computing') : 10
+('get', 'started') : 7
+('cloud', 'developer') : 7
+('â', 'new') : 6
+('new', 'program') : 6
+('devops', 'engineer') : 6
+('learn', 'more') : 6
+('more', 'â') : 6
+('udacity', 'graduates') : 6
+('watch', 'video') : 6
+('cloud', 'devops') : 5
+('cloud', 'security') : 5
+('covered', 'aws') : 5
+('â', 'â') : 5
+('aws', 'cloud') : 5
+('cloud', 'architect') : 5
+('microsoft', 'azure') : 5
+('machine', 'learning') : 5
+('microservices', 'kubernetes') : 4
+
+
+Page 84 : ('program', 'details') : 248
+('learn', 'more') : 246
+('skills', 'covered') : 230
+('more', 'free') : 155
+('free', 'program') : 155
+('program', 'free') : 155
+('free', 'school') : 155
+('programming', 'development') : 139
+('details', 'intermediate') : 139
+('school', 'programming') : 138
+('in', 'collaboration') : 138
+('collaboration', 'with') : 138
+('new', 'program') : 82
+('program', 'new') : 82
+('more', 'new') : 81
+('new', 'school') : 70
+('artificial', 'intelligence') : 64
+('machine', 'learning') : 62
+('details', 'beginner') : 60
+('with', 'google') : 47
+
+
+Page 85 : ('product', 'manager') : 16
+('data', 'science') : 14
+('machine', 'learning') : 12
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+('data', 'engineer') : 5
+
+
+Page 86 : ('watch', 'now') : 11
+('astro', 'teller') : 8
+('udacity', 'talks') : 6
+('tony', 'fadell') : 5
+('jess', 'lee') : 5
+('kaifu', 'lee') : 3
+('artificial', 'intelligence') : 3
+('for', 'enterprise') : 2
+('enterprise', 'blog') : 2
+('blog', 'my') : 2
+('my', 'classroom') : 2
+('classroom', 'sign') : 2
+('sign', 'in') : 2
+('in', 'get') : 2
+('get', 'started') : 2
+('tuesday', 'october') : 2
+('october', '16') : 2
+('16', 'â') : 2
+('â', '1100am') : 2
+('1100am', 'pt') : 2
+
+
+Page 87 : ('product', 'manager') : 16
+('data', 'science') : 14
+('machine', 'learning') : 12
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+('data', 'engineer') : 5
+
+
+Page 88 : ('403', 'forbidden') : 2
+('forbidden', '403') : 1
+('forbidden', 'nginx') : 1
+
+
+Page 89 : ('product', 'manager') : 16
+('data', 'science') : 14
+('machine', 'learning') : 12
+('web', 'developer') : 10
+('back', 'menu') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+('data', 'engineer') : 5
+
+
+Page 90 : ('product', 'manager') : 16
+('machine', 'learning') : 15
+('data', 'science') : 14
+('artificial', 'intelligence') : 10
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('georgia', 'tech') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+
+
+Page 91 : ('product', 'manager') : 16
+('data', 'science') : 15
+('machine', 'learning') : 13
+('artificial', 'intelligence') : 10
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+('data', 'engineer') : 5
+
+
+Page 92 : ('403', 'forbidden') : 2
+('forbidden', '403') : 1
+('forbidden', 'nginx') : 1
+
+
+Page 93 : ('our', 'mission') : 3
+('across', 'company') : 3
+('student', 'success') : 3
+('for', 'enterprise') : 2
+('enterprise', 'blog') : 2
+('blog', 'my') : 2
+('my', 'classroom') : 2
+('classroom', 'sign') : 2
+('sign', 'in') : 2
+('in', 'get') : 2
+('get', 'started') : 2
+('hiring', 'partners') : 2
+('partners', 'programs') : 2
+('join', 'us') : 2
+('at', 'udacity') : 2
+('open', 'positions') : 2
+('positions', 'open') : 2
+('open', 'position') : 2
+('we', 'work') : 2
+('machine', 'learning') : 2
+
+
+Page 94 : ('mountain', 'view') : 13
+('view', 'ca') : 7
+('computer', 'history') : 6
+('history', 'museum') : 6
+('intersect', '2018') : 5
+('hiring', 'partners') : 3
+('marc', 'andreessen') : 3
+('andreessen', 'cofounder') : 3
+('cofounder', 'general') : 3
+('general', 'partner') : 3
+('andreessen', 'horowitz') : 3
+('shiza', 'shahid') : 3
+('now', 'ventures') : 3
+('malala', 'fund') : 3
+('real', 'world') : 3
+('moonshot', 'factory') : 3
+('san', 'francisco') : 3
+('scott', 'cook') : 3
+('chairman', 'executive') : 3
+('executive', 'committee') : 3
+
+
+Page 95 : ('product', 'manager') : 16
+('data', 'science') : 14
+('machine', 'learning') : 12
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('udacity', 's') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('become', 'instructor') : 6
+('microsoft', 'azure') : 6
+('course', 'development') : 6
+
+
+Page 96 : ('udacity', 'enterprise') : 7
+('data', 'science') : 7
+('machine', 'learning') : 6
+('artificial', 'intelligence') : 5
+('nanodegree', 'programs') : 4
+('the', 'school') : 4
+('enterprise', 'school') : 4
+('nanodegree', 'courses') : 4
+('levels', 'difficulty') : 4
+('difficulty', 'designed') : 4
+('product', 'manager') : 4
+('school', 'artificial') : 3
+('courses', 'three') : 3
+('three', 'levels') : 3
+('designed', 'equip') : 3
+('equip', 'workforce') : 3
+('school', 'autonomous') : 3
+('autonomous', 'systems') : 3
+('school', 'data') : 3
+('school', 'programming') : 3
+
+
+Page 97 : ('sebastian', 'thrun') : 17
+('product', 'manager') : 16
+('thrun', 'founder') : 15
+('founder', 'president') : 15
+('president', 'executive') : 15
+('executive', 'chairman') : 15
+('chairman', 'udacity') : 15
+('data', 'science') : 14
+('machine', 'learning') : 13
+('lalit', 'singh') : 13
+('singh', 'former') : 13
+('former', 'coo') : 13
+('coo', 'udacity') : 13
+('digital', 'transformation') : 11
+('ai', 'healthcare') : 10
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 9
+
+
+Page 98 : ('product', 'manager') : 16
+('data', 'science') : 14
+('machine', 'learning') : 12
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+('data', 'engineer') : 5
+
+
+Page 99 : ('product', 'manager') : 16
+('data', 'science') : 14
+('machine', 'learning') : 12
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+('data', 'engineer') : 5
+
+
+Page 100 : ('product', 'manager') : 16
+('data', 'science') : 14
+('machine', 'learning') : 12
+('back', 'menu') : 9
+('web', 'developer') : 9
+('data', 'structures') : 9
+('structures', 'algorithms') : 9
+('artificial', 'intelligence') : 8
+('business', 'leaders') : 8
+('menu', 'programs') : 6
+('developer', 'cloud') : 6
+('devops', 'engineer') : 6
+('intro', 'machine') : 6
+('learning', 'engineer') : 6
+('programming', 'data') : 6
+('analytics', 'business') : 6
+('microsoft', 'azure') : 6
+('cloud', 'developer') : 5
+('c', 'data') : 5
+('data', 'engineer') : 5
+
+
+Page 101 : ('nanodegree', 'terms') : 20
+('terms', 'conditions') : 20
+('career', 'coach') : 16
+('udacity', 'career') : 16
+('online', 'course') : 15
+('coffee', 'chats') : 15
+('chats', 'ama') : 15
+('ama', 'udacity') : 15
+('career', 'coaches') : 15
+('machine', 'learning') : 14
+('coaches', 'coffee') : 14
+('data', 'science') : 12
+('artificial', 'intelligence') : 12
+('ask', 'career') : 10
+('product', 'manager') : 9
+('web', 'developer') : 8
+('job', 'search') : 8
+('interview', 'workshop') : 8
+('course', 'become') : 7
+('microsoft', 'azure') : 7
+
+

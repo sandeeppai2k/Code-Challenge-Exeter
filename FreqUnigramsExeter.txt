@@ -1,0 +1,1628 @@
+Most Frequent Unigrams in Top PagesPage 0 : kriyadocs : 17
+content : 11
+get : 9
+access : 6
+need : 6
+authors : 6
+pdf : 6
+your : 6
+schedule : 5
+i : 5
+demo : 4
+publishing : 4
+collaboration : 4
+publish : 4
+work : 4
+publishers : 4
+it : 4
+workflows : 4
+xml : 4
+the : 4
+
+
+Page 1 : jobs : 1
+careers : 1
+
+
+Page 2 : we : 1
+ve : 1
+detected : 1
+javascript : 1
+disabled : 1
+browser : 1
+would : 1
+like : 1
+proceed : 1
+legacy : 1
+twitter : 1
+yes : 1
+something : 1
+went : 1
+wrong : 1
+fret : 1
+let : 1
+give : 1
+another : 1
+shot : 1
+
+
+Page 3 : we : 1
+ve : 1
+detected : 1
+javascript : 1
+disabled : 1
+browser : 1
+would : 1
+like : 1
+proceed : 1
+legacy : 1
+twitter : 1
+yes : 1
+something : 1
+went : 1
+wrong : 1
+fret : 1
+let : 1
+give : 1
+another : 1
+shot : 1
+
+
+Page 4 : 
+
+Page 5 : 
+
+Page 6 : 
+
+Page 7 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 8 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 9 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 10 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 11 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 12 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 13 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 14 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 15 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 16 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 17 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 18 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 19 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 20 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 21 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 22 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 23 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 24 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 25 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 26 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 27 : policy : 6
+linkedin : 4
+agree : 3
+join : 3
+bahasa : 3
+sign : 2
+name : 2
+user : 2
+agreement : 2
+privacy : 2
+cookie : 2
+english : 2
+indonesia : 2
+tagalog : 2
+chinese : 2
+up : 1
+make : 1
+professional : 1
+life : 1
+not : 1
+
+
+Page 28 : 
+
+Page 29 : 
+
+Page 30 : 
+
+Page 31 : 
+
+Page 32 : exeter : 8
+premedia : 7
+technology : 7
+ai : 7
+facebook : 6
+new : 4
+can : 4
+replace : 4
+copyeditors : 4
+
+
+Page 33 : exeter : 1
+premedia : 1
+s : 1
+exeterpremedia : 1
+instagram : 1
+profile : 1
+18 : 1
+photos : 1
+videos : 1
+
+
+Page 34 : services : 34
+we : 15
+design : 13
+data : 12
+us : 12
+artwork : 11
+editorial : 10
+management : 10
+publishers : 10
+project : 9
+our : 9
+exeter : 8
+content : 8
+books : 8
+authors : 7
+conversion : 7
+digital : 6
+xml : 6
+adobe : 6
+illustrations : 6
+
+
+Page 35 : services : 34
+we : 15
+design : 13
+data : 12
+us : 12
+artwork : 11
+editorial : 10
+management : 10
+publishers : 10
+project : 9
+our : 9
+exeter : 8
+content : 8
+books : 8
+authors : 7
+conversion : 7
+digital : 6
+xml : 6
+adobe : 6
+illustrations : 6
+
+
+Page 36 : services : 34
+we : 15
+design : 13
+data : 12
+us : 12
+artwork : 11
+editorial : 10
+management : 10
+publishers : 10
+project : 9
+our : 9
+exeter : 8
+content : 8
+books : 8
+authors : 7
+conversion : 7
+digital : 6
+xml : 6
+adobe : 6
+illustrations : 6
+
+
+Page 37 : services : 34
+we : 15
+design : 13
+data : 12
+us : 12
+artwork : 11
+editorial : 10
+management : 10
+publishers : 10
+project : 9
+our : 9
+exeter : 8
+content : 8
+books : 8
+authors : 7
+conversion : 7
+digital : 6
+xml : 6
+adobe : 6
+illustrations : 6
+
+
+Page 38 : services : 34
+we : 15
+design : 13
+data : 12
+us : 12
+artwork : 11
+editorial : 10
+management : 10
+publishers : 10
+project : 9
+our : 9
+exeter : 8
+content : 8
+books : 8
+authors : 7
+conversion : 7
+digital : 6
+xml : 6
+adobe : 6
+illustrations : 6
+
+
+Page 39 : exeter : 26
+premedia : 16
+us : 15
+services : 9
+service : 7
+happy : 6
+kriya : 6
+about : 5
+contact : 5
+authors : 4
+more : 4
+2019 : 4
+exeterpremedia : 4
+happyauthors : 4
+employees : 4
+day : 4
+india : 4
+blog : 3
+events : 3
+news : 3
+
+
+Page 40 : us : 11
+the : 8
+services : 7
+2017 : 7
+2019 : 6
+read : 6
+more : 6
+about : 5
+february : 5
+april : 5
+blog : 4
+contact : 4
+2018 : 4
+events : 3
+news : 3
+careers : 3
+december : 3
+26 : 3
+august : 3
+india : 3
+
+
+Page 41 : us : 12
+publishing : 9
+services : 8
+authors : 7
+technology : 7
+we : 6
+about : 5
+experience : 5
+clients : 5
+exeter : 4
+publishers : 4
+contact : 4
+content : 4
+manages : 4
+blog : 3
+events : 3
+news : 3
+careers : 3
+happy : 3
+provide : 3
+
+
+Page 42 : us : 14
+2019 : 8
+services : 7
+uk : 6
+2018 : 6
+about : 5
+events : 4
+contact : 4
+blog : 3
+news : 3
+careers : 3
+london : 3
+india : 3
+kriyadocs : 2
+editorial : 2
+data : 2
+artwork : 2
+design : 2
+project : 2
+management : 2
+
+
+Page 43 : exeter : 14
+us : 12
+kriya : 12
+services : 10
+digital : 9
+india : 9
+premedia : 7
+read : 7
+solutions : 6
+more : 6
+about : 5
+2018 : 5
+ravi : 5
+publishing : 5
+news : 4
+project : 4
+contact : 4
+s : 4
+venkataramani : 4
+ceo : 4
+
+
+Page 44 : us : 13
+services : 7
+contact : 5
+about : 5
+india : 5
+blog : 3
+events : 3
+news : 3
+careers : 3
+office : 3
+kriyadocs : 2
+editorial : 2
+data : 2
+artwork : 2
+design : 2
+project : 2
+management : 2
+resources : 2
+we : 2
+address : 2
+
+
+Page 45 : exeter : 26
+premedia : 16
+us : 15
+services : 9
+service : 7
+happy : 6
+kriya : 6
+about : 5
+contact : 5
+authors : 4
+more : 4
+2019 : 4
+exeterpremedia : 4
+happyauthors : 4
+employees : 4
+day : 4
+india : 4
+blog : 3
+events : 3
+news : 3
+
+
+Page 46 : _ : 10
+a : 9
+w : 8
+f : 7
+k : 6
+r : 6
+m : 6
+b : 6
+g : 5
+h : 5
+e : 5
+d : 5
+j : 5
+p : 5
+x : 4
+c : 4
+0 : 3
+er : 3
+ny : 3
+
+
+Page 47 : jrt : 10
+l : 5
+h : 5
+a : 5
+b : 4
+u : 3
+t : 3
+y : 3
+9 : 2
+k : 2
+w : 2
+f : 2
+v : 2
+x : 2
+d : 2
+9t : 2
+r : 2
+q : 2
+2 : 2
+i : 2
+
+
+Page 48 : f : 6
+tc9 : 5
+e : 5
+x : 5
+o : 4
+h : 4
+v : 4
+y : 3
+n : 3
+r : 3
+t : 3
+1 : 3
+g : 3
+w : 2
+7 : 2
+kv : 2
+4 : 2
+tc7tu : 2
+
+
+Page 49 : c : 12
+w : 11
+l : 10
+j : 10
+r : 9
+e : 8
+i : 8
+g : 7
+m : 7
+t : 7
+9 : 7
+k : 7
+p : 6
+s : 6
+7 : 5
+z : 5
+3 : 5
+n : 5
+b : 5
+4 : 5
+
+
+Page 50 : e : 9
+z : 9
+u : 7
+p : 7
+s : 5
+v : 5
+h : 5
+t : 5
+1 : 5
+5 : 4
+i : 4
+4 : 4
+g : 4
+f : 4
+l : 4
+r : 4
+a : 4
+c : 4
+j : 4
+k : 3
+
+
+Page 51 : 6 : 11
+z : 4
+j : 4
+o : 4
+v : 3
+jrt : 3
+p : 3
+g : 3
+e : 2
+t : 2
+q : 2
+s : 2
+1 : 2
+h : 2
+r : 2
+u : 2
+riff : 1
+webpvp8 : 1
+1d : 1
+pv : 1
+
+
+Page 52 : w : 10
+1 : 9
+q : 9
+z : 9
+f : 8
+m : 8
+d : 8
+r : 8
+y : 8
+b : 7
+s : 7
+o : 7
+n : 7
+t : 7
+i : 7
+l6mam : 6
+c : 6
+k : 6
+l : 6
+p : 5
+
+
+Page 53 : g : 7
+e : 6
+m : 6
+s : 6
+v : 6
+f : 5
+l : 5
+8 : 5
+96 : 4
+w : 4
+z : 4
+u : 4
+b : 4
+_ : 3
+i : 3
+o : 3
+lsm : 3
+d : 3
+y : 3
+
+
+Page 54 : n : 13
+x : 11
+i : 9
+6 : 8
+m : 8
+v : 8
+e : 7
+b : 7
+t : 7
+l : 7
+p : 7
+d : 6
+u : 6
+n6 : 5
+a : 5
+k : 5
+c : 5
+h : 5
+j : 5
+r : 5
+
+
+Page 55 : b : 11
+g : 11
+q : 11
+p : 10
+y : 10
+w : 9
+u : 9
+v : 9
+j : 8
+i : 7
+e : 7
+l : 7
+a : 7
+h : 7
+3 : 6
+x : 6
+k : 6
+c : 6
+s : 6
+o : 5
+
+
+Page 56 : k : 17
+w : 15
+f : 14
+g : 14
+h : 14
+a : 13
+j : 13
+y : 13
+b : 13
+t : 12
+z : 12
+p : 12
+q : 11
+c : 11
+e : 11
+s : 11
+r : 11
+x : 10
+i : 10
+d : 9
+
+
+Page 57 : c : 13
+o : 11
+y : 11
+w : 8
+x : 8
+v : 8
+q : 7
+z : 7
+e : 7
+g : 7
+yd : 6
+3 : 6
+m : 6
+h : 5
+f : 5
+p : 5
+k : 5
+b : 5
+n : 5
+l : 5
+
+
+Page 58 : v : 13
+z : 12
+t : 11
+n : 11
+h : 10
+u : 10
+k : 9
+y : 8
+m : 8
+e : 8
+a : 8
+b : 8
+i : 7
+g : 7
+s : 7
+o : 7
+d : 7
+c : 7
+x : 7
+8 : 6
+
+
+Page 59 : k : 7
+h : 6
+z : 6
+j : 6
+f : 6
+o : 5
+u : 4
+p : 3
+q : 3
+r : 3
+n : 3
+i : 3
+d : 3
+7 : 3
+1 : 3
+b : 3
+2 : 3
+4 : 3
+2s : 2
+
+
+Page 60 : e : 12
+y : 7
+w : 7
+t : 7
+i : 7
+m : 6
+n : 6
+s : 6
+8 : 6
+5 : 6
+q : 6
+2 : 5
+d : 5
+b : 5
+a : 5
+h : 5
+_ : 5
+u : 5
+k : 5
+p : 5
+
+
+Page 61 : g : 17
+c : 15
+j : 13
+y : 12
+e : 11
+w : 11
+f : 10
+l : 10
+b : 10
+o : 9
+p : 9
+i : 9
+z : 8
+1 : 8
+_ : 8
+n : 8
+x : 8
+a : 7
+h : 7
+u : 7
+
+
+Page 62 : c : 17
+z : 15
+w : 13
+f : 13
+v : 11
+g : 10
+s : 10
+t : 10
+k : 9
+q : 9
+p : 9
+l : 9
+b : 8
+7 : 8
+o : 8
+j : 7
+d : 7
+y : 7
+m : 7
+h : 7
+
+
+Page 63 : w : 16
+i : 10
+n : 8
+j : 7
+u : 7
+eao : 7
+4 : 7
+y : 7
+z : 7
+g : 7
+x : 7
+9 : 7
+v : 6
+r : 6
+f : 5
+o : 5
+b : 5
+s : 5
+a : 5
+e : 5
+
+
+Page 64 : o : 16
+v : 10
+k : 8
+j : 8
+p : 5
+t : 5
+w : 5
+s : 4
+q : 4
+a : 4
+l : 4
+n : 3
+c : 3
+5 : 3
+x : 3
+xe : 2
+6 : 2
+on : 2
+m : 2
+e : 2
+
+
+Page 65 : w : 12
+a : 10
+j : 8
+l : 8
+c : 6
+u : 6
+g : 6
+f : 6
+p : 5
+3 : 5
+rw : 5
+d : 5
+y : 4
+6 : 4
+q : 4
+x : 4
+i : 4
+m : 4
+r : 4
+ru : 3
+
+
+Page 66 : e : 15
+m : 15
+i : 13
+j : 13
+b : 11
+k : 10
+0 : 9
+t : 9
+o : 9
+u : 8
+z : 8
+f : 8
+c : 8
+d : 8
+y : 8
+q : 8
+7 : 7
+l : 7
+s : 7
+h : 7
+
+
+Page 67 : w : 14
+n : 13
+p : 11
+u : 11
+x : 10
+d : 10
+f : 10
+m : 9
+q : 9
+j : 9
+b : 9
+s : 8
+l : 7
+8 : 6
+k : 6
+r : 6
+h : 5
+i : 5
+t : 5
+c : 4
+
+
+Page 68 : e : 12
+l : 10
+a : 10
+p : 9
+g : 9
+t : 8
+k : 8
+f : 8
+q : 8
+w : 7
+y : 7
+i : 7
+u : 6
+m : 6
+s : 6
+5 : 5
+d : 5
+z : 5
+r : 5
+
+
+Page 69 : s : 17
+v : 16
+e : 15
+y : 13
+n : 13
+u : 13
+i : 12
+t : 12
+b : 12
+o : 11
+c : 11
+g : 11
+d : 11
+m : 10
+k : 10
+a : 10
+r : 9
+q : 9
+x : 9
+p : 8
+
+
+Page 70 : p : 13
+b : 11
+t : 11
+q : 9
+j : 8
+v : 8
+g : 8
+2 : 8
+d : 8
+w : 8
+l : 7
+7 : 7
+x : 7
+u : 7
+k : 7
+r : 7
+m : 6
+o : 6
+c : 6
+i : 6
+
+
+Page 71 : o : 5
+v : 5
+y : 4
+x : 4
+e : 3
+z : 3
+g : 3
+r : 3
+p : 3
+s : 3
+a : 3
+m : 3
+w : 2
+i : 2
+4 : 2
+4l : 2
+2 : 2
+t : 2
+d : 2
+n : 2
+
+
+Page 72 : us : 11
+services : 7
+about : 5
+contact : 4
+blog : 3
+events : 3
+news : 3
+careers : 3
+india : 3
+kriyadocs : 2
+editorial : 2
+data : 2
+artwork : 2
+design : 2
+project : 2
+management : 2
+resources : 2
+clients : 2
+we : 2
+uk : 2
+
+
+Page 73 : collaboration : 16
+work : 15
+teams : 15
+it : 12
+us : 11
+making : 8
+editorial : 8
+services : 7
+one : 7
+together : 7
+sales : 7
+team : 7
+organization : 6
+better : 6
+business : 6
+also : 6
+companies : 6
+production : 6
+exeter : 5
+project : 5
+
+
+Page 74 : us : 11
+services : 7
+2019 : 6
+february : 5
+about : 5
+blog : 4
+contact : 4
+events : 3
+news : 3
+careers : 3
+india : 3
+exeter : 2
+kriyadocs : 2
+editorial : 2
+data : 2
+artwork : 2
+design : 2
+project : 2
+management : 2
+resources : 2
+
+
+Page 75 : us : 11
+id : 9
+another : 7
+services : 7
+i : 6
+need : 6
+exeter : 6
+blog : 6
+why : 5
+about : 5
+the : 5
+researcher : 5
+contact : 4
+people : 4
+work : 4
+events : 3
+news : 3
+careers : 3
+kriya : 3
+research : 3
+
+
+Page 76 : us : 11
+services : 7
+about : 5
+april : 4
+2018 : 4
+blog : 4
+contact : 4
+events : 3
+news : 3
+careers : 3
+india : 3
+exeter : 2
+kriyadocs : 2
+editorial : 2
+data : 2
+artwork : 2
+design : 2
+project : 2
+management : 2
+resources : 2
+
+
+Page 77 : pdf : 21
+the : 16
+us : 11
+services : 7
+exeter : 6
+blog : 6
+publishing : 6
+world : 6
+it : 6
+death : 5
+about : 5
+author : 5
+final : 5
+access : 5
+contact : 4
+format : 4
+book : 4
+events : 3
+news : 3
+careers : 3
+
+
+Page 78 : us : 11
+services : 7
+about : 5
+february : 4
+2018 : 4
+blog : 4
+contact : 4
+events : 3
+news : 3
+careers : 3
+india : 3
+exeter : 2
+kriyadocs : 2
+editorial : 2
+data : 2
+artwork : 2
+design : 2
+project : 2
+management : 2
+resources : 2
+
+
+Page 79 : exeter : 26
+premedia : 16
+us : 15
+services : 9
+service : 7
+happy : 6
+kriya : 6
+about : 5
+contact : 5
+authors : 4
+more : 4
+2019 : 4
+exeterpremedia : 4
+happyauthors : 4
+employees : 4
+day : 4
+india : 4
+blog : 3
+events : 3
+news : 3
+
+
+Page 80 : information : 62
+us : 25
+may : 25
+we : 22
+products : 21
+personal : 19
+privacy : 18
+services : 16
+policy : 15
+use : 13
+contact : 10
+third : 9
+if : 8
+cookies : 8
+website : 7
+provide : 7
+service : 7
+websites : 6
+party : 6
+send : 6
+
+
+Page 81 : services : 83
+party : 56
+terms : 50
+us : 36
+information : 35
+use : 34
+we : 24
+data : 23
+you : 23
+may : 21
+the : 19
+confidential : 19
+shall : 18
+receiving : 18
+disclosing : 16
+account : 15
+or : 15
+authorized : 14
+third : 14
+any : 14
+
+
+Page 82 : method : 2
+status : 1
+code : 1
+404 : 1
+message : 1
+incorrect : 1
+request : 1
+available : 1
+
+

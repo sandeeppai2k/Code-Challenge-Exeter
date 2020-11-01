@@ -1,0 +1,1465 @@
+Most Frequent Bigrams in Top PagesPage 0 : ('schedule', 'demo') : 4
+('authors', 'publishers') : 3
+('accelerate', 'publishing') : 2
+('kriyadocs', 'document') : 2
+('document', 'collaboration') : 2
+('collaboration', 'platform') : 2
+('platform', 'helps') : 2
+('helps', 'publish') : 2
+('publish', 'faster') : 2
+('faster', 'produce') : 2
+('produce', 'content') : 2
+('content', 'less') : 2
+('less', 'effort') : 2
+('kanban', 'boards') : 2
+('publish', 'demand') : 2
+('everything', 'need') : 2
+('publishers', 'alike') : 2
+('early', 'access') : 2
+('get', 'free') : 2
+('also', 'get') : 2
+
+
+Page 1 : ('jobs', 'careers') : 1
+
+
+Page 2 : ('we', 've') : 1
+('ve', 'detected') : 1
+('detected', 'javascript') : 1
+('javascript', 'disabled') : 1
+('disabled', 'browser') : 1
+('browser', 'would') : 1
+('would', 'like') : 1
+('like', 'proceed') : 1
+('proceed', 'legacy') : 1
+('legacy', 'twitter') : 1
+('twitter', 'yes') : 1
+('yes', 'something') : 1
+('something', 'went') : 1
+('went', 'wrong') : 1
+('wrong', 'fret') : 1
+('fret', 'let') : 1
+('let', 'give') : 1
+('give', 'another') : 1
+('another', 'shot') : 1
+
+
+Page 3 : ('we', 've') : 1
+('ve', 'detected') : 1
+('detected', 'javascript') : 1
+('javascript', 'disabled') : 1
+('disabled', 'browser') : 1
+('browser', 'would') : 1
+('would', 'like') : 1
+('like', 'proceed') : 1
+('proceed', 'legacy') : 1
+('legacy', 'twitter') : 1
+('twitter', 'yes') : 1
+('yes', 'something') : 1
+('something', 'went') : 1
+('went', 'wrong') : 1
+('wrong', 'fret') : 1
+('fret', 'let') : 1
+('let', 'give') : 1
+('give', 'another') : 1
+('another', 'shot') : 1
+
+
+Page 4 : 
+
+Page 5 : 
+
+Page 6 : 
+
+Page 7 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 8 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 9 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 10 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 11 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 12 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 13 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 14 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 15 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 16 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 17 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 18 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 19 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 20 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 21 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 22 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 23 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 24 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 25 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 26 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 27 : ('agree', 'join') : 2
+('user', 'agreement') : 2
+('agreement', 'privacy') : 2
+('privacy', 'policy') : 2
+('policy', 'cookie') : 2
+('cookie', 'policy') : 2
+('bahasa', 'indonesia') : 2
+('sign', 'up') : 1
+('up', 'linkedin') : 1
+('linkedin', 'make') : 1
+('make', 'professional') : 1
+('professional', 'life') : 1
+('life', 'not') : 1
+('not', 'remove') : 1
+('remove', 'photo') : 1
+('photo', 'first') : 1
+('first', 'name') : 1
+('name', 'last') : 1
+('last', 'name') : 1
+('name', 'email') : 1
+
+
+Page 28 : 
+
+Page 29 : 
+
+Page 30 : 
+
+Page 31 : 
+
+Page 32 : ('exeter', 'premedia') : 7
+('can', 'ai') : 4
+('ai', 'replace') : 4
+('replace', 'copyeditors') : 4
+('copyeditors', 'anjali') : 3
+('anjali', 'dhananjayan') : 3
+('dhananjayan', 'buzz') : 3
+('buzz', 'ambassador') : 3
+('ambassador', 'as') : 3
+('as', 'new') : 3
+('new', 'technology') : 3
+('technology', 'keeps') : 3
+('keeps', 'booming') : 3
+('booming', 'ai') : 3
+('ai', 'taking') : 3
+('taking', 'jobs') : 3
+
+
+Page 33 : ('exeter', 'premedia') : 1
+('premedia', 's') : 1
+('s', 'exeterpremedia') : 1
+('exeterpremedia', 'instagram') : 1
+('instagram', 'profile') : 1
+('profile', '18') : 1
+('18', 'photos') : 1
+('photos', 'videos') : 1
+
+
+Page 34 : ('artwork', 'design') : 8
+('project', 'management') : 8
+('editorial', 'services') : 7
+('data', 'services') : 7
+('services', 'data') : 5
+('services', 'artwork') : 5
+('about', 'us') : 5
+('design', 'project') : 4
+('contact', 'us') : 4
+('design', 'services') : 4
+('authors', 'publishers') : 3
+('turnaround', 'times') : 3
+('services', 'we') : 3
+('data', 'conversion') : 3
+('conversion', 'services') : 3
+('page', 'composition') : 3
+('books', 'journals') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('management', 'resources') : 2
+
+
+Page 35 : ('artwork', 'design') : 8
+('project', 'management') : 8
+('editorial', 'services') : 7
+('data', 'services') : 7
+('services', 'data') : 5
+('services', 'artwork') : 5
+('about', 'us') : 5
+('design', 'project') : 4
+('contact', 'us') : 4
+('design', 'services') : 4
+('authors', 'publishers') : 3
+('turnaround', 'times') : 3
+('services', 'we') : 3
+('data', 'conversion') : 3
+('conversion', 'services') : 3
+('page', 'composition') : 3
+('books', 'journals') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('management', 'resources') : 2
+
+
+Page 36 : ('artwork', 'design') : 8
+('project', 'management') : 8
+('editorial', 'services') : 7
+('data', 'services') : 7
+('services', 'data') : 5
+('services', 'artwork') : 5
+('about', 'us') : 5
+('design', 'project') : 4
+('contact', 'us') : 4
+('design', 'services') : 4
+('authors', 'publishers') : 3
+('turnaround', 'times') : 3
+('services', 'we') : 3
+('data', 'conversion') : 3
+('conversion', 'services') : 3
+('page', 'composition') : 3
+('books', 'journals') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('management', 'resources') : 2
+
+
+Page 37 : ('artwork', 'design') : 8
+('project', 'management') : 8
+('editorial', 'services') : 7
+('data', 'services') : 7
+('services', 'data') : 5
+('services', 'artwork') : 5
+('about', 'us') : 5
+('design', 'project') : 4
+('contact', 'us') : 4
+('design', 'services') : 4
+('authors', 'publishers') : 3
+('turnaround', 'times') : 3
+('services', 'we') : 3
+('data', 'conversion') : 3
+('conversion', 'services') : 3
+('page', 'composition') : 3
+('books', 'journals') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('management', 'resources') : 2
+
+
+Page 38 : ('artwork', 'design') : 8
+('project', 'management') : 8
+('editorial', 'services') : 7
+('data', 'services') : 7
+('services', 'data') : 5
+('services', 'artwork') : 5
+('about', 'us') : 5
+('design', 'project') : 4
+('contact', 'us') : 4
+('design', 'services') : 4
+('authors', 'publishers') : 3
+('turnaround', 'times') : 3
+('services', 'we') : 3
+('data', 'conversion') : 3
+('conversion', 'services') : 3
+('page', 'composition') : 3
+('books', 'journals') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('management', 'resources') : 2
+
+
+Page 39 : ('exeter', 'premedia') : 16
+('premedia', 'service') : 7
+('service', 'exeter') : 7
+('about', 'us') : 5
+('contact', 'us') : 5
+('happy', 'authors') : 4
+('kriya', 'happyauthors') : 4
+('read', 'more') : 3
+('premedia', 'exeter') : 3
+('authors', 'delighted') : 2
+('delighted', 'publishers') : 2
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+
+
+Page 40 : ('read', 'more') : 6
+('about', 'us') : 5
+('contact', 'us') : 4
+('26', '2017') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+
+
+Page 41 : ('about', 'us') : 5
+('contact', 'us') : 4
+('authors', 'publishers') : 2
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+('us', 'careers') : 2
+
+
+Page 42 : ('about', 'us') : 5
+('contact', 'us') : 4
+('london', 'uk') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+('us', 'careers') : 2
+
+
+Page 43 : ('exeter', 'premedia') : 7
+('digital', 'solutions') : 6
+('solutions', 'india') : 6
+('read', 'more') : 6
+('about', 'us') : 5
+('india', '2018') : 5
+('contact', 'us') : 4
+('ravi', 'venkataramani') : 4
+('ceo', 'exeter') : 4
+('publisher', 's') : 3
+('s', 'weekly') : 3
+('venkataramani', 'ceo') : 3
+('kriya', 'packager') : 3
+('premedia', 'services') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+
+
+Page 44 : ('contact', 'us') : 5
+('about', 'us') : 5
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+('us', 'careers') : 2
+('address', 'india') : 2
+
+
+Page 45 : ('exeter', 'premedia') : 16
+('premedia', 'service') : 7
+('service', 'exeter') : 7
+('about', 'us') : 5
+('contact', 'us') : 5
+('happy', 'authors') : 4
+('kriya', 'happyauthors') : 4
+('read', 'more') : 3
+('premedia', 'exeter') : 3
+('authors', 'delighted') : 2
+('delighted', 'publishers') : 2
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+
+
+Page 46 : ('er', 'ny') : 3
+('riffr', 'webpvp8') : 1
+('webpvp8', 'f') : 1
+('f', '1c') : 1
+('ykogwùq_', '_') : 1
+('_', '_') : 1
+('_', '0') : 1
+('0', 'g') : 1
+('g', '_') : 1
+('_', 'f') : 1
+('f', '7') : 1
+('7', '6a') : 1
+
+
+Page 47 : ('jrt', 'jrt') : 3
+('riffn', 'webpvp8') : 1
+('webpvp8', 'b') : 1
+('b', '0x') : 1
+('0x', '1d') : 1
+('1d', 'lu') : 1
+('lu', 'vyw') : 1
+('vyw', 'wto') : 1
+('wto', '9') : 1
+('9', 'ucw') : 1
+('ucw', 'k') : 1
+('o8d', 'mt') : 1
+('w', 'n') : 1
+('n', 'ky') : 1
+('ky', 'l') : 1
+('l', 'hc') : 1
+
+
+Page 48 : ('e', 'i') : 2
+('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', 'pj1') : 1
+('pj1', 'ojowdxb') : 1
+('ojowdxb', 'f6') : 1
+('f6', '7oo') : 1
+('w', 'kk') : 1
+('kk', 'zy') : 1
+('3oe', '7') : 1
+('7', 'ee') : 1
+('ee', 'm4m4m4m4m4m4m4m4m4m4msv') : 1
+('tc9', 'ic9') : 1
+
+
+Page 49 : ('riff', 'webpvp8') : 1
+('webpvp8', 'p') : 1
+('p', '1c') : 1
+('a', 'gzw_') : 1
+('gzw_', '__') : 1
+('__', 'p9') : 1
+('_i', 'n7') : 1
+('c', '7') : 1
+('7', 'q') : 1
+('q', 'g') : 1
+('g', 'mcc') : 1
+('mcc', 'yd') : 1
+
+
+Page 50 : ('biwcpg', '4') : 2
+('1', 'z') : 2
+('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', 'p1ktg1acjo0p') : 1
+('p1ktg1acjo0p', 'gk') : 1
+('5', 'm_tq_x') : 1
+('zi', 'i') : 1
+('i', 'gv') : 1
+('ooos', 'k') : 1
+
+
+Page 51 : ('6', '6') : 4
+('riff', 'webpvp8') : 1
+('webpvp8', 'v') : 1
+('v', '1d') : 1
+('1d', 'pv') : 1
+('pv', '9') : 1
+('9', 'bpr') : 1
+('bpr', 'nuz') : 1
+('nuz', 'zu') : 1
+('zu', 'z') : 1
+('z', 'rkc_') : 1
+('rkc_', '5yl') : 1
+('5yl', 'j') : 1
+('j', 'poc') : 1
+('poc', 'o') : 1
+('f', 'v3hc') : 1
+
+
+Page 52 : ('l6mam', 'l6mam') : 2
+('w', 'o') : 2
+('1', 'lm') : 2
+('riffr', 'webpvp8') : 1
+('webpvp8', 'f') : 1
+('f', 'p') : 1
+('p', '1c') : 1
+('1c', '4') : 1
+('b', '7') : 1
+('7', 'gwod') : 1
+('gwod', 'jznw') : 1
+
+
+Page 53 : ('m', '96') : 2
+('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', '_') : 1
+('_', 'pxxs') : 1
+('gn', 'e') : 1
+('e', 'm') : 1
+('m', 'g') : 1
+('g', 'bx') : 1
+('bx', 'i') : 1
+('i', '_b') : 1
+('opuug0oq', 'o') : 1
+
+
+Page 54 : ('6', 'n') : 6
+('n', '6') : 6
+('lj7a', 'n6') : 2
+('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', 'd') : 1
+('d', 'pw') : 1
+('tw', 'of') : 1
+('oaz', 'uiq7') : 1
+('goj', 'bon') : 1
+('bon', '6') : 1
+('6', 'rifl') : 1
+('rifl', 'e6ui') : 1
+
+
+Page 55 : ('x', 'iv4v') : 2
+('1', 'j') : 2
+('riff4', 'webpvp8') : 1
+('webpvp8', '3') : 1
+('3', '1c') : 1
+('1c', 'yo') : 1
+('yo', 'c3') : 1
+('c3', 'o') : 1
+('o', 'do') : 1
+('do', 'i') : 1
+('i', 'gdo') : 1
+('gdo', 'e') : 1
+('e', '3oo') : 1
+('gt', 'joq') : 1
+('joq', 'opm') : 1
+
+
+Page 56 : ('1', 'g') : 2
+('rifff', 'webpvp8') : 1
+('webpvp8', 'f') : 1
+('f', '1c') : 1
+('1c', 'yeo') : 1
+('ogas', '1') : 1
+('vw', 'lh') : 1
+('lh', 'vw') : 1
+('vw', '6') : 1
+('6', '_') : 1
+('_', 'cg') : 1
+
+
+Page 57 : ('m', 's') : 2
+('riff7', 'webpvp8') : 1
+('webpvp8', '7') : 1
+('7', '1c') : 1
+('1c', 'gndw') : 1
+('gndw', 'c_vm') : 1
+('xh', 'wo') : 1
+('wo', 'w') : 1
+('w', 'o') : 1
+('o', 'oych') : 1
+('ay', 'w') : 1
+
+
+Page 58 : ('p8', 'p8') : 2
+('riffnwebpvp8', 'b0') : 1
+('b0', '1c') : 1
+('q7o', 'y') : 1
+('y', 'goh') : 1
+('jfcoo', 'cy_t') : 1
+('t', '_bx') : 1
+('_bx', 't') : 1
+('t', 'gw') : 1
+('gw', 'i') : 1
+
+
+Page 59 : ('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', 'p') : 1
+('p', '5gdyh') : 1
+('5gdyh', 'k3') : 1
+('k3', 'pi') : 1
+('pi', 'wupg') : 1
+('wupg', 'hac') : 1
+('t_', '5wc') : 1
+('5wc', 'r7z') : 1
+('r7z', 'ws37_') : 1
+('rrz', '2s') : 1
+('2s', 'qb') : 1
+
+
+Page 60 : ('1', 'zilcdv') : 2
+('riff', 'webpvp8') : 1
+('webpvp8', '0') : 1
+('0', '1c') : 1
+('1c', 'pxpf7f') : 1
+('pxpf7f', 'btomw') : 1
+('btomw', '3_z_w') : 1
+('3_z_w', 'ic') : 1
+('ic', 's2') : 1
+('s2', 'y') : 1
+('y', 'o_') : 1
+('o_', 'w') : 1
+('pz', 'go_jo') : 1
+('go_jo', 'pkce') : 1
+('wqu', 'm') : 1
+
+
+Page 61 : ('k', 's') : 2
+('riffff', 'webpvp8') : 1
+('webpvp8', 'f') : 1
+('f', '1c') : 1
+('1c', 'z') : 1
+('z', 'qr0') : 1
+('qr0', '8w') : 1
+('8w', 'o') : 1
+('_s', '5') : 1
+('y', 'ic') : 1
+('jb2', 'fffffffffffffffffffffffewzz') : 1
+
+
+Page 62 : ('p', 'c') : 2
+('z', 'f') : 2
+('y', 'z') : 2
+('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('g', 'lx') : 1
+('lx', 'ybs7ipy') : 1
+('ybs7ipy', 'gq') : 1
+('gq', 'o_') : 1
+('o_', 'csw') : 1
+('csw', 'e') : 1
+('e', 'c_') : 1
+('c_', '7o2ror') : 1
+('i', 'gþ') : 1
+('gþ', '_o') : 1
+
+
+Page 63 : ('w', 'eao') : 6
+('eao', 'i') : 5
+('i', 'w') : 3
+('4', 'w') : 2
+('riffv', 'webpvp8') : 1
+('webpvp8', 'j') : 1
+('j', '1c') : 1
+('1c', 'px') : 1
+('px', '2zs') : 1
+('2zs', 'u') : 1
+('u', 'gj') : 1
+('y3wkw', '3go') : 1
+('3go', 'f') : 1
+('f', 'w9_') : 1
+('w9_', '0i') : 1
+('0i', 'on') : 1
+
+
+Page 64 : ('o', 'o') : 2
+('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', 'o') : 1
+('o', 'p') : 1
+('p', 'o') : 1
+('s', 'j_') : 1
+('j_', 'dfg') : 1
+('dfg', 'k') : 1
+('k', 'g') : 1
+('g', '7s') : 1
+('7s', 'n') : 1
+('k_', 'xe') : 1
+('xe', 'xwo0') : 1
+('xwo0', 'so_t') : 1
+
+
+Page 65 : ('ru', 'pz') : 3
+('pz', 'ru') : 2
+('hv', '4j') : 2
+('riff', 'webpvp8') : 1
+('1c', 'p') : 1
+('p', '3') : 1
+('yuw7', 'k_') : 1
+('k_', '_') : 1
+('_', 'e7_ina') : 1
+('e7_ina', 'e') : 1
+('e', 'nyg__') : 1
+('nyg__', 'hq') : 1
+('hq', '_') : 1
+('_', 'ru') : 1
+
+
+Page 66 : ('m', 'm') : 2
+('m', 'e') : 2
+('riffwebpvp8', '0') : 1
+('0', '1c') : 1
+('1c', '_z') : 1
+('_z', 'x33o') : 1
+('_', '7') : 1
+('7', '2oro') : 1
+('2oro', 'shq') : 1
+('shq', 'e') : 1
+('e', 'm') : 1
+('m', 'u') : 1
+('u', '_') : 1
+
+
+Page 67 : ('eopee1cc', 'u') : 2
+('w', 'd') : 2
+('s', 'n') : 2
+('f', 'w') : 2
+('riff0', 'webpvp8') : 1
+('webpvp8', 'r0') : 1
+('r0', '0') : 1
+('0', '1c') : 1
+('1c', 'p') : 1
+('p', 'ems') : 1
+('ems', 'hubwoo') : 1
+('hubwoo', 'sc') : 1
+('_', 'ybo') : 1
+('ybo', '4') : 1
+('4', 'p') : 1
+('p', 'g9w') : 1
+('g9w', 'y_9o') : 1
+('y_9o', 'c') : 1
+
+
+Page 68 : ('e', 'l') : 2
+('riffx', 'webpvp8') : 1
+('webpvp8', 'l') : 1
+('l', '1c') : 1
+('1c', 't') : 1
+('t', 'er') : 1
+('er', 'gl') : 1
+('gl', 'vuw7gjl') : 1
+('vuw7gjl', 'uqmq_') : 1
+('uqmq_', '5') : 1
+('7eo7_', 'oacoci') : 1
+('oacoci', 'rm') : 1
+('rm', 'p_bs') : 1
+('p_bs', 'p7') : 1
+('p7', 'koo') : 1
+('koo', 'k') : 1
+
+
+Page 69 : ('n', 'w') : 2
+('m4', 'i') : 2
+('riffli', 'webpvp8') : 1
+('webpvp8', 'i') : 1
+('i', 'p') : 1
+('p', '1c') : 1
+('1c', 'lu') : 1
+('lu', 'dugk6qo7wg_') : 1
+('o7', 'o') : 1
+('o', 'a3o') : 1
+('a3o', 'op') : 1
+('kw', 'y') : 1
+('y', 'r3') : 1
+('r3', 'c') : 1
+('c', 'qeo_n') : 1
+
+
+Page 70 : ('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', 'l') : 1
+('_gggl', 'b') : 1
+('b', '_j') : 1
+('_j', '7') : 1
+('7', 'w_he_') : 1
+('w_he_', 'a_') : 1
+('vx', 'm') : 1
+('xkcun7zn7zxkcunxkcun7zx87zxkcunkxkcun7zxen_', 'j') : 1
+('j', '3j8') : 1
+('3j8', '3j8') : 1
+
+
+Page 71 : ('riff', 'webpvp8') : 1
+('webpvp8', '1c') : 1
+('1c', 'po_') : 1
+('gc', 's5cg') : 1
+('s5cg', 'qw') : 1
+('qw', 'an3a') : 1
+('an3a', '_') : 1
+('_', 'w') : 1
+('w', 'g_7') : 1
+('i', 'qf') : 1
+('qf', 'vi9') : 1
+('vi9', 'j') : 1
+('j', 'nzx') : 1
+
+
+Page 72 : ('about', 'us') : 5
+('contact', 'us') : 4
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+('us', 'careers') : 2
+('client', 'exeter') : 1
+
+
+Page 73 : ('making', 'collaboration') : 7
+('collaboration', 'work') : 7
+('about', 'us') : 5
+('contact', 'us') : 4
+('work', 'together') : 4
+('achieve', 'goals') : 3
+('editorial', 'production') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+
+
+Page 74 : ('about', 'us') : 5
+('contact', 'us') : 4
+('february', '2019') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+('us', 'careers') : 2
+
+
+Page 75 : ('why', 'i') : 5
+('i', 'need') : 5
+('need', 'another') : 5
+('another', 'id') : 5
+('about', 'us') : 5
+('contact', 'us') : 4
+('kriya', 'exeter') : 3
+('exeter', 'blog') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+
+
+Page 76 : ('about', 'us') : 5
+('contact', 'us') : 4
+('april', '2018') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+('us', 'careers') : 2
+
+
+Page 77 : ('the', 'death') : 5
+('death', 'pdf') : 5
+('about', 'us') : 5
+('contact', 'us') : 4
+('kriya', 'exeter') : 3
+('exeter', 'blog') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+
+
+Page 78 : ('about', 'us') : 5
+('contact', 'us') : 4
+('february', '2018') : 3
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+('management', 'resources') : 2
+('resources', 'blog') : 2
+('blog', 'about') : 2
+('us', 'about') : 2
+('us', 'events') : 2
+('events', 'news') : 2
+('news', 'contact') : 2
+('us', 'careers') : 2
+
+
+Page 79 : ('exeter', 'premedia') : 16
+('premedia', 'service') : 7
+('service', 'exeter') : 7
+('about', 'us') : 5
+('contact', 'us') : 5
+('happy', 'authors') : 4
+('kriya', 'happyauthors') : 4
+('read', 'more') : 3
+('premedia', 'exeter') : 3
+('authors', 'delighted') : 2
+('delighted', 'publishers') : 2
+('kriyadocs', 'services') : 2
+('services', 'editorial') : 2
+('editorial', 'services') : 2
+('services', 'data') : 2
+('data', 'services') : 2
+('services', 'artwork') : 2
+('artwork', 'design') : 2
+('design', 'project') : 2
+('project', 'management') : 2
+
+
+Page 80 : ('personal', 'information') : 18
+('privacy', 'policy') : 14
+('we', 'may') : 14
+('contact', 'us') : 7
+('products', 'services') : 6
+('about', 'us') : 5
+('third', 'party') : 5
+('may', 'share') : 5
+('websites', 'products') : 4
+('information', 'we') : 4
+('third', 'parties') : 4
+('events', 'news') : 3
+('use', 'products') : 3
+('information', 'you') : 3
+('may', 'use') : 3
+('information', 'shared') : 3
+('share', 'disclose') : 3
+('service', 'providers') : 3
+('information', 'may') : 3
+('please', 'contact') : 3
+
+
+Page 81 : ('receiving', 'party') : 17
+('disclosing', 'party') : 16
+('confidential', 'information') : 15
+('third', 'party') : 14
+('use', 'services') : 13
+('authorized', 'users') : 12
+('customer', 'data') : 9
+('these', 'terms') : 7
+('access', 'use') : 7
+('you', 'agree') : 7
+('our', 'services') : 7
+('services', 'documentation') : 6
+('party', 'confidential') : 6
+('about', 'us') : 5
+('contact', 'us') : 5
+('privacy', 'policy') : 5
+('intellectual', 'property') : 5
+('terms', 'shall') : 5
+('products', 'services') : 4
+('we', 'may') : 4
+
+
+Page 82 : ('status', 'code') : 1
+('code', '404') : 1
+('404', 'message') : 1
+('message', 'incorrect') : 1
+('incorrect', 'request') : 1
+('request', 'method') : 1
+('method', 'method') : 1
+('method', 'available') : 1
+
+

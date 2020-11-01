@@ -1,0 +1,2113 @@
+Most Frequent Unigrams in Top PagesPage 0 : udacity : 1
+you : 1
+need : 1
+enable : 1
+javascript : 1
+run : 1
+app : 1
+
+
+Page 1 : udacity : 1
+you : 1
+need : 1
+enable : 1
+javascript : 1
+run : 1
+app : 1
+
+
+Page 2 : udacity : 13
+job : 11
+career : 7
+your : 7
+developer : 6
+jobs : 5
+nanodegree : 4
+get : 4
+tech : 4
+dream : 4
+resource : 3
+center : 3
+catalog : 3
+enterprise : 3
+in : 3
+started : 3
+find : 3
+search : 3
+work : 3
+negotiate : 3
+
+
+Page 3 : 403 : 2
+forbidden : 2
+nginx : 1
+
+
+Page 4 : please : 2
+security : 1
+check : 1
+turn : 1
+javascript : 1
+reload : 1
+page : 1
+enable : 1
+cookies : 1
+rayid : 1
+5eb8ed337f6e2e5e : 1
+ip : 1
+17160216119 : 1
+
+
+Page 5 : 1 : 24
+no : 18
+incidents : 17
+2020 : 15
+reported : 15
+oct : 14
+operational : 8
+islands : 6
+outage : 6
+udacity : 5
+90 : 5
+uptime : 5
+get : 4
+incident : 4
+terms : 4
+service : 4
+days : 4
+today : 4
+site : 3
+privacy : 3
+
+
+Page 6 : udacity : 13
+facebook : 7
+nanodegree : 7
+program : 7
+learning : 6
+google : 4
+students : 4
+technology : 4
+machine : 4
+
+
+Page 7 : we : 1
+ve : 1
+detected : 1
+javascript : 1
+disabled : 1
+browser : 1
+would : 1
+like : 1
+proceed : 1
+legacy : 1
+twitter : 1
+yes : 1
+something : 1
+went : 1
+wrong : 1
+fret : 1
+let : 1
+give : 1
+another : 1
+shot : 1
+
+
+Page 8 : udacity : 21
+i : 10
+2019 : 7
+experience : 5
+ai : 4
+the : 4
+my : 4
+from : 4
+inc : 3
+learning : 3
+beyond : 3
+a : 3
+life : 3
+passion : 3
+may : 3
+1 : 3
+c : 3
+nanodegree : 3
+program : 3
+2 : 3
+
+
+Page 9 : 
+
+Page 10 : udacity : 2
+instagram : 1
+photos : 1
+videos : 1
+
+
+Page 11 : data : 34
+udacity : 17
+science : 17
+time : 13
+hrsweek : 13
+estimated : 12
+months : 12
+learning : 12
+engineer : 11
+business : 10
+510 : 10
+programming : 9
+new : 8
+developer : 8
+learn : 7
+skills : 7
+cloud : 7
+programs : 6
+enterprise : 6
+industry : 6
+
+
+Page 12 : data : 34
+udacity : 17
+science : 17
+time : 13
+hrsweek : 13
+estimated : 12
+months : 12
+learning : 12
+engineer : 11
+business : 10
+510 : 10
+programming : 9
+new : 8
+developer : 8
+learn : 7
+skills : 7
+cloud : 7
+programs : 6
+enterprise : 6
+industry : 6
+
+
+Page 13 : data : 88
+â : 60
+program : 38
+engineer : 28
+nanodegree : 21
+engineering : 18
+career : 16
+learning : 15
+udacity : 15
+project : 14
+learn : 12
+iconcheckmark : 11
+checkmark : 11
+programs : 10
+get : 10
+services : 10
+developer : 10
+i : 10
+python : 9
+skills : 9
+
+
+Page 14 : data : 91
+product : 84
+program : 43
+manager : 32
+nanodegree : 31
+products : 24
+learn : 16
+learning : 16
+right : 14
+time : 12
+science : 12
+career : 12
+ai : 12
+udacity : 12
+programs : 11
+management : 11
+managers : 11
+user : 11
+development : 10
+market : 10
+
+
+Page 15 : data : 74
+â : 60
+program : 32
+analyst : 20
+learning : 17
+udacity : 17
+nanodegree : 14
+python : 14
+career : 14
+learn : 13
+iconcheckmark : 11
+checkmark : 11
+engineer : 11
+i : 11
+analysis : 10
+science : 10
+projects : 10
+support : 10
+programs : 9
+programming : 9
+
+
+Page 16 : data : 73
+â : 60
+program : 38
+science : 28
+programming : 25
+python : 23
+learn : 22
+nanodegree : 20
+career : 19
+learning : 17
+udacity : 16
+sql : 14
+engineer : 14
+school : 12
+i : 12
+programs : 11
+skills : 11
+projects : 11
+iconcheckmark : 11
+checkmark : 11
+
+
+Page 17 : â : 60
+data : 48
+sql : 39
+program : 32
+nanodegree : 21
+business : 16
+career : 16
+learn : 15
+learning : 15
+programs : 13
+udacity : 13
+product : 12
+get : 11
+engineer : 11
+use : 10
+databases : 10
+programming : 10
+manager : 10
+developer : 10
+analyst : 10
+
+
+Page 18 : data : 69
+â : 60
+program : 31
+business : 19
+nanodegree : 19
+career : 18
+learn : 16
+analytics : 15
+learning : 15
+skills : 13
+science : 13
+programs : 12
+udacity : 12
+iconcheckmark : 11
+checkmark : 11
+engineer : 11
+school : 11
+programming : 10
+i : 10
+get : 9
+
+
+Page 19 : â : 60
+data : 45
+program : 32
+algorithms : 31
+structures : 30
+nanodegree : 20
+udacity : 20
+learn : 19
+learning : 18
+engineer : 16
+problems : 15
+developer : 15
+career : 12
+get : 11
+programming : 11
+software : 11
+projects : 11
+programs : 10
+technical : 10
+support : 10
+
+
+Page 20 : data : 93
+â : 60
+program : 40
+learning : 27
+science : 26
+nanodegree : 21
+scientist : 18
+machine : 18
+career : 17
+engineer : 17
+learn : 16
+udacity : 14
+projects : 12
+project : 12
+youâll : 11
+programming : 11
+iconcheckmark : 11
+checkmark : 11
+programs : 10
+get : 10
+
+
+Page 21 : data : 73
+â : 60
+program : 36
+streaming : 26
+nanodegree : 24
+engineer : 21
+learn : 17
+learning : 14
+career : 13
+udacity : 13
+engineering : 11
+realtime : 11
+programs : 10
+analytics : 10
+services : 10
+iconcheckmark : 10
+checkmark : 10
+programming : 10
+python : 9
+spark : 9
+
+
+Page 22 : data : 74
+â : 60
+program : 34
+skills : 16
+business : 15
+visualization : 14
+learning : 14
+udacity : 14
+nanodegree : 12
+learn : 12
+career : 12
+engineer : 11
+iconcheckmark : 10
+checkmark : 10
+i : 10
+programs : 9
+get : 9
+analysis : 9
+services : 9
+project : 9
+
+
+Page 23 : â : 60
+data : 49
+marketing : 32
+program : 28
+analytics : 21
+nanodegree : 15
+career : 15
+learn : 14
+learning : 14
+udacity : 13
+engineer : 11
+programs : 10
+skills : 10
+iconcheckmark : 10
+checkmark : 10
+developer : 10
+business : 9
+services : 9
+project : 9
+science : 9
+
+
+Page 24 : data : 71
+â : 60
+program : 38
+science : 27
+programming : 24
+r : 21
+learn : 20
+nanodegree : 20
+career : 19
+learning : 17
+udacity : 16
+sql : 14
+engineer : 14
+school : 12
+i : 12
+programs : 11
+projects : 11
+iconcheckmark : 11
+checkmark : 11
+get : 10
+
+
+Page 25 : data : 51
+engineer : 31
+developer : 26
+business : 26
+programs : 23
+learning : 21
+cloud : 20
+product : 20
+ai : 19
+programming : 18
+manager : 18
+science : 16
+analytics : 15
+school : 15
+udacity : 14
+intro : 13
+machine : 12
+career : 11
+get : 11
+new : 10
+
+
+Page 26 : i : 290
+udacity : 237
+helped : 109
+job : 96
+nanodegree : 78
+new : 76
+developer : 71
+android : 64
+program : 63
+skills : 52
+career : 51
+learning : 39
+development : 38
+get : 36
+data : 35
+able : 35
+company : 33
+learn : 27
+got : 23
+after : 22
+
+
+Page 27 : cloud : 56
+program : 30
+engineer : 26
+hybrid : 24
+nanodegree : 17
+udacity : 16
+learning : 15
+infrastructure : 15
+data : 14
+career : 13
+services : 13
+iconcheckmark : 11
+checkmark : 11
+developer : 11
+nutanix : 10
+i : 10
+programs : 9
+software : 9
+support : 9
+web : 9
+
+
+Page 28 : learning : 59
+machine : 49
+program : 33
+azure : 23
+engineer : 19
+ai : 18
+data : 17
+nanodegree : 16
+udacity : 16
+microsoft : 13
+career : 12
+programs : 11
+experience : 11
+python : 11
+ml : 11
+skills : 10
+project : 10
+iconcheckmark : 10
+checkmark : 10
+i : 10
+
+
+Page 29 : azure : 45
+program : 26
+cloud : 24
+developer : 21
+microsoft : 19
+engineer : 19
+nanodegree : 16
+services : 16
+data : 16
+udacity : 16
+application : 15
+career : 14
+learning : 13
+learn : 11
+applications : 10
+programming : 10
+iconcheckmark : 10
+checkmark : 10
+i : 10
+programs : 9
+
+
+Page 30 : rpa : 34
+program : 32
+developer : 24
+nanodegree : 20
+software : 18
+data : 17
+learn : 16
+uipath : 16
+learning : 16
+programming : 13
+youâll : 13
+projects : 12
+project : 12
+career : 12
+udacity : 12
+business : 11
+automation : 11
+engineer : 11
+microsoft : 10
+skills : 10
+
+
+Page 31 : agile : 51
+program : 32
+development : 19
+software : 17
+learn : 16
+nanodegree : 16
+project : 16
+students : 15
+learning : 14
+career : 13
+udacity : 13
+programs : 11
+engineer : 11
+data : 11
+product : 10
+manager : 10
+services : 10
+iconcheckmark : 10
+checkmark : 10
+value : 9
+
+
+Page 32 : data : 79
+science : 45
+program : 42
+business : 40
+executive : 23
+learning : 18
+leaders : 15
+career : 13
+project : 13
+udacity : 13
+programs : 11
+strategic : 11
+i : 11
+technical : 11
+machine : 10
+what : 10
+this : 10
+engineer : 10
+projects : 9
+learn : 9
+
+
+Page 33 : azure : 29
+program : 26
+cloud : 25
+engineer : 22
+microsoft : 19
+devops : 17
+learning : 16
+nanodegree : 14
+services : 14
+udacity : 14
+data : 13
+career : 12
+learn : 10
+project : 10
+iconcheckmark : 10
+checkmark : 10
+i : 10
+ai : 9
+developer : 9
+programs : 8
+
+
+Page 34 : cybersecurity : 32
+security : 32
+program : 29
+career : 15
+nanodegree : 14
+learn : 14
+data : 14
+udacity : 13
+learning : 13
+get : 12
+engineer : 12
+systems : 10
+services : 10
+iconcheckmark : 10
+checkmark : 10
+i : 10
+introduction : 9
+network : 9
+project : 9
+programs : 8
+
+
+Page 35 : javascript : 33
+program : 28
+developer : 23
+web : 18
+programming : 17
+nanodegree : 16
+development : 14
+learning : 14
+career : 14
+data : 13
+udacity : 13
+intermediate : 11
+learn : 11
+engineer : 11
+programs : 10
+iconcheckmark : 10
+checkmark : 10
+applications : 9
+services : 9
+project : 9
+
+
+Page 36 : product : 104
+program : 64
+nanodegree : 54
+growth : 49
+manager : 47
+course : 27
+managers : 25
+data : 24
+monetization : 23
+strategy : 22
+learn : 20
+business : 18
+project : 18
+enroll : 16
+udacity : 16
+management : 15
+learning : 15
+30 : 15
+programs : 14
+get : 14
+
+
+Page 37 : product : 94
+program : 52
+growth : 50
+manager : 44
+nanodegree : 42
+managers : 25
+data : 22
+course : 18
+learn : 17
+strategy : 15
+project : 15
+udacity : 15
+business : 14
+learning : 13
+programs : 12
+career : 12
+services : 12
+management : 11
+enroll : 11
+i : 11
+
+
+Page 38 : java : 39
+program : 32
+developer : 24
+nanodegree : 20
+web : 18
+learn : 16
+data : 15
+career : 14
+programming : 13
+services : 13
+learning : 13
+udacity : 13
+enterprise : 11
+backend : 11
+build : 11
+engineer : 11
+iconcheckmark : 10
+checkmark : 10
+programs : 9
+software : 9
+
+
+Page 39 : data : 91
+product : 84
+program : 43
+manager : 32
+nanodegree : 31
+products : 24
+learn : 16
+learning : 16
+right : 14
+time : 12
+science : 12
+career : 12
+ai : 12
+udacity : 12
+programs : 11
+management : 11
+managers : 11
+user : 11
+development : 10
+market : 10
+
+
+Page 40 : â : 60
+data : 48
+sql : 39
+program : 32
+nanodegree : 21
+business : 16
+career : 16
+learn : 15
+learning : 15
+programs : 13
+udacity : 13
+product : 12
+get : 11
+engineer : 11
+use : 10
+databases : 10
+programming : 10
+manager : 10
+developer : 10
+analyst : 10
+
+
+Page 41 : â : 60
+learning : 42
+data : 41
+program : 40
+ai : 33
+machine : 28
+healthcare : 24
+nanodegree : 22
+medical : 15
+learn : 14
+engineer : 14
+build : 12
+career : 12
+udacity : 12
+imaging : 10
+services : 10
+iconcheckmark : 10
+checkmark : 10
+i : 10
+programs : 9
+
+
+Page 42 : cloud : 68
+â : 60
+program : 38
+aws : 35
+architect : 25
+nanodegree : 21
+infrastructure : 21
+engineer : 17
+services : 16
+learning : 14
+design : 13
+udacity : 13
+developer : 13
+data : 12
+career : 12
+computing : 11
+secure : 10
+experience : 10
+best : 10
+iconcheckmark : 10
+
+
+Page 43 : â : 62
+learning : 53
+intelâ : 48
+edge : 40
+ai : 36
+program : 33
+deep : 33
+hardware : 26
+computer : 24
+vision : 24
+iot : 22
+data : 21
+nanodegree : 19
+developer : 18
+openvinoâ : 17
+engineer : 17
+toolkit : 16
+udacity : 16
+distribution : 15
+model : 15
+
+
+Page 44 : product : 65
+â : 61
+program : 29
+manager : 25
+data : 14
+learn : 13
+market : 13
+learning : 13
+nanodegree : 12
+career : 12
+udacity : 12
+get : 11
+programs : 10
+services : 10
+iconcheckmark : 10
+checkmark : 10
+ai : 10
+engineer : 10
+development : 9
+roles : 9
+
+
+Page 45 : â : 60
+program : 50
+business : 46
+ai : 44
+learning : 36
+executive : 27
+data : 24
+machine : 23
+leaders : 18
+artificial : 16
+intelligence : 16
+udacity : 13
+engineer : 12
+programs : 11
+technical : 11
+understand : 10
+what : 10
+learn : 10
+career : 10
+strategic : 9
+
+
+Page 46 : learning : 64
+â : 60
+machine : 45
+program : 43
+nanodegree : 26
+data : 23
+intro : 18
+engineer : 18
+programs : 17
+learn : 14
+career : 14
+udacity : 14
+i : 14
+programming : 12
+tensorflow : 11
+iconcheckmark : 11
+checkmark : 11
+project : 11
+python : 10
+ai : 10
+
+
+Page 47 : data : 73
+â : 60
+program : 36
+streaming : 26
+nanodegree : 24
+engineer : 21
+learn : 17
+learning : 14
+career : 13
+udacity : 13
+engineering : 11
+realtime : 11
+programs : 10
+analytics : 10
+services : 10
+iconcheckmark : 10
+checkmark : 10
+programming : 10
+python : 9
+spark : 9
+
+
+Page 48 : â : 60
+design : 35
+program : 29
+ux : 26
+user : 17
+learn : 16
+data : 14
+learning : 14
+nanodegree : 13
+digital : 13
+research : 13
+youâll : 13
+career : 13
+udacity : 12
+product : 11
+engineer : 11
+programs : 10
+designer : 10
+products : 10
+iconcheckmark : 10
+
+
+Page 49 : â : 60
+ai : 47
+product : 31
+program : 30
+learning : 24
+data : 21
+learn : 19
+business : 18
+youâll : 14
+machine : 14
+manager : 13
+products : 13
+udacity : 13
+nanodegree : 12
+career : 12
+engineer : 11
+project : 10
+iconcheckmark : 10
+checkmark : 10
+developer : 10
+
+
+Page 50 : â : 60
+program : 37
+engineer : 32
+data : 24
+nanodegree : 19
+sensor : 18
+career : 16
+learning : 16
+udacity : 16
+fusion : 15
+lidar : 13
+learn : 12
+radar : 11
+selfdriving : 11
+iconcheckmark : 11
+checkmark : 11
+programs : 10
+camera : 10
+c : 10
+project : 10
+
+
+Page 51 : data : 74
+â : 60
+program : 34
+skills : 16
+business : 15
+visualization : 14
+learning : 14
+udacity : 14
+nanodegree : 12
+learn : 12
+career : 12
+engineer : 11
+iconcheckmark : 10
+checkmark : 10
+i : 10
+programs : 9
+get : 9
+analysis : 9
+services : 9
+project : 9
+
+
+Page 52 : â : 60
+cloud : 32
+program : 27
+developer : 20
+nanodegree : 18
+learning : 18
+career : 16
+web : 14
+services : 14
+udacity : 14
+development : 12
+learn : 12
+engineer : 12
+data : 12
+get : 10
+project : 10
+iconcheckmark : 10
+checkmark : 10
+aws : 9
+programs : 9
+
+
+Page 53 : â : 60
+program : 26
+cloud : 22
+engineer : 21
+learning : 18
+career : 16
+learn : 16
+devops : 15
+youâll : 15
+services : 14
+data : 13
+udacity : 13
+nanodegree : 12
+infrastructure : 11
+deploy : 11
+project : 11
+programming : 10
+iconcheckmark : 10
+checkmark : 10
+software : 10
+
+
+Page 54 : â : 60
+c : 36
+program : 35
+nanodegree : 24
+programming : 21
+engineer : 20
+learn : 18
+programs : 15
+developer : 15
+udacity : 15
+learning : 13
+career : 13
+data : 12
+project : 12
+i : 12
+selfdriving : 11
+software : 11
+get : 10
+projects : 10
+iconcheckmark : 10
+
+
+Page 55 : â : 60
+data : 45
+program : 32
+algorithms : 31
+structures : 30
+nanodegree : 20
+udacity : 20
+learn : 19
+learning : 18
+engineer : 16
+problems : 15
+developer : 15
+career : 12
+get : 11
+programming : 11
+software : 11
+projects : 11
+programs : 10
+technical : 10
+support : 10
+
+
+Page 56 : â : 60
+data : 49
+marketing : 32
+program : 28
+analytics : 21
+nanodegree : 15
+career : 15
+learn : 14
+learning : 14
+udacity : 13
+engineer : 11
+programs : 10
+skills : 10
+iconcheckmark : 10
+checkmark : 10
+developer : 10
+business : 9
+services : 9
+project : 9
+science : 9
+
+
+Page 57 : data : 88
+â : 60
+program : 38
+engineer : 28
+nanodegree : 21
+engineering : 18
+career : 16
+learning : 15
+udacity : 15
+project : 14
+learn : 12
+iconcheckmark : 11
+checkmark : 11
+programs : 10
+get : 10
+services : 10
+developer : 10
+i : 10
+python : 9
+skills : 9
+
+
+Page 58 : â : 60
+android : 50
+program : 35
+basics : 18
+nanodegree : 18
+udacity : 17
+app : 15
+google : 14
+programming : 14
+developer : 14
+programs : 13
+apps : 13
+learn : 13
+learning : 13
+career : 12
+engineer : 12
+get : 11
+need : 11
+iconcheckmark : 11
+checkmark : 11
+
+
+Page 59 : android : 72
+developer : 38
+program : 32
+kotlin : 23
+app : 21
+engineer : 19
+nanodegree : 18
+apps : 18
+data : 16
+learning : 16
+learn : 14
+development : 13
+google : 13
+udacity : 13
+programs : 12
+programming : 12
+build : 12
+career : 12
+experience : 11
+mobile : 10
+
+
+Page 60 : â : 60
+ios : 30
+program : 29
+developer : 22
+programming : 20
+learn : 19
+data : 16
+swift : 15
+app : 15
+nanodegree : 14
+learning : 14
+udacity : 14
+project : 13
+career : 12
+iconcheckmark : 11
+checkmark : 11
+engineer : 11
+get : 10
+i : 10
+programs : 9
+
+
+Page 61 : data : 69
+â : 60
+program : 31
+business : 19
+nanodegree : 19
+career : 18
+learn : 16
+analytics : 15
+learning : 15
+skills : 13
+science : 13
+programs : 12
+udacity : 12
+iconcheckmark : 11
+checkmark : 11
+engineer : 11
+school : 11
+programming : 10
+i : 10
+get : 9
+
+
+Page 62 : data : 74
+â : 60
+program : 32
+analyst : 20
+learning : 17
+udacity : 17
+nanodegree : 14
+python : 14
+career : 14
+learn : 13
+iconcheckmark : 11
+checkmark : 11
+engineer : 11
+i : 11
+analysis : 10
+science : 10
+projects : 10
+support : 10
+programs : 9
+programming : 9
+
+
+Page 63 : â : 61
+web : 40
+program : 37
+developer : 33
+front : 22
+end : 22
+nanodegree : 21
+using : 17
+career : 15
+javascript : 14
+data : 14
+learning : 14
+programs : 13
+build : 13
+css : 13
+learn : 12
+udacity : 12
+websites : 11
+projects : 11
+project : 11
+
+
+Page 64 : â : 60
+web : 45
+program : 43
+developer : 33
+nanodegree : 25
+full : 22
+stack : 21
+data : 17
+software : 15
+learning : 14
+career : 14
+applications : 13
+udacity : 13
+programs : 12
+learn : 12
+experience : 12
+python : 12
+programming : 12
+engineer : 12
+build : 11
+
+
+Page 65 : â : 60
+program : 44
+programming : 26
+nanodegree : 26
+web : 22
+udacity : 18
+learning : 16
+developer : 16
+programs : 15
+learn : 15
+data : 15
+intro : 14
+career : 13
+i : 13
+engineer : 12
+project : 11
+get : 10
+python : 10
+need : 10
+services : 10
+
+
+Page 66 : learning : 61
+â : 60
+program : 43
+machine : 42
+nanodegree : 25
+data : 22
+intro : 17
+engineer : 17
+programs : 15
+learn : 15
+i : 14
+programming : 13
+career : 13
+ai : 12
+udacity : 12
+python : 11
+iconcheckmark : 11
+checkmark : 11
+project : 11
+pytorch : 10
+
+
+Page 67 : learning : 62
+â : 60
+machine : 51
+program : 37
+engineer : 24
+data : 21
+nanodegree : 18
+learn : 14
+models : 14
+i : 14
+career : 12
+iconcheckmark : 11
+checkmark : 11
+udacity : 11
+programs : 10
+algorithms : 10
+services : 10
+techniques : 9
+instructor : 9
+science : 9
+
+
+Page 68 : â : 60
+data : 58
+program : 40
+business : 38
+analytics : 29
+nanodegree : 27
+predictive : 20
+learn : 18
+career : 16
+analyst : 15
+engineer : 15
+learning : 13
+programs : 12
+udacity : 12
+in : 11
+iconcheckmark : 11
+checkmark : 11
+i : 11
+time : 10
+analysis : 10
+
+
+Page 69 : data : 73
+â : 60
+program : 38
+science : 28
+programming : 25
+python : 23
+learn : 22
+nanodegree : 20
+career : 19
+learning : 17
+udacity : 16
+sql : 14
+engineer : 14
+school : 12
+i : 12
+programs : 11
+skills : 11
+projects : 11
+iconcheckmark : 11
+checkmark : 11
+
+
+Page 70 : data : 71
+â : 60
+program : 38
+science : 27
+programming : 24
+r : 21
+learn : 20
+nanodegree : 20
+career : 19
+learning : 17
+udacity : 16
+sql : 14
+engineer : 14
+school : 12
+i : 12
+programs : 11
+projects : 11
+iconcheckmark : 11
+checkmark : 11
+get : 10
+
+
+Page 71 : â : 60
+react : 37
+program : 36
+nanodegree : 24
+developer : 19
+learning : 17
+career : 16
+udacity : 15
+web : 11
+project : 11
+engineer : 11
+data : 11
+learn : 10
+iconcheckmark : 10
+checkmark : 10
+i : 10
+programs : 9
+javascript : 9
+services : 9
+get : 8
+
+
+Page 72 : â : 61
+program : 42
+nanodegree : 24
+ai : 21
+data : 16
+learning : 16
+programs : 14
+algorithms : 14
+udacity : 14
+artificial : 13
+intelligence : 13
+engineer : 13
+programming : 12
+career : 12
+learn : 11
+python : 11
+iconcheckmark : 10
+checkmark : 10
+project : 10
+i : 10
+
+
+Page 73 : â : 60
+learning : 38
+program : 32
+deep : 22
+networks : 18
+nanodegree : 17
+data : 16
+learn : 13
+career : 13
+i : 13
+build : 12
+engineer : 12
+udacity : 12
+programs : 11
+iconcheckmark : 11
+checkmark : 11
+get : 10
+neural : 10
+python : 10
+machine : 10
+
+
+Page 74 : â : 60
+marketing : 44
+program : 31
+digital : 28
+learn : 20
+media : 19
+social : 17
+nanodegree : 16
+learning : 15
+career : 15
+content : 15
+udacity : 14
+manager : 14
+in : 12
+search : 11
+iconcheckmark : 11
+checkmark : 11
+engineer : 11
+i : 11
+data : 11
+
+
+Page 75 : â : 60
+program : 53
+nanodegree : 40
+engineer : 31
+flying : 23
+car : 22
+learning : 22
+robotics : 17
+udacity : 16
+software : 15
+data : 15
+learn : 14
+autonomous : 13
+career : 13
+i : 13
+intro : 12
+selfdriving : 12
+cars : 11
+projects : 11
+flight : 10
+
+
+Page 76 : â : 60
+program : 51
+selfdriving : 38
+nanodegree : 31
+engineer : 22
+learning : 21
+cars : 20
+career : 20
+car : 19
+intro : 18
+programming : 17
+learn : 17
+udacity : 17
+c : 14
+data : 14
+i : 13
+programs : 11
+machine : 10
+iconcheckmark : 10
+checkmark : 10
+
+
+Page 77 : â : 60
+program : 51
+robotics : 49
+engineer : 35
+nanodegree : 33
+software : 29
+learn : 19
+career : 17
+learning : 16
+ros : 15
+c : 15
+i : 15
+udacity : 15
+programs : 12
+skills : 12
+data : 11
+get : 10
+projects : 10
+algorithms : 10
+project : 10
+
+
+Page 78 : learning : 110
+machine : 49
+deep : 38
+concepts : 35
+â : 32
+covered : 32
+ai : 29
+engineer : 26
+learn : 19
+data : 19
+artificial : 18
+intelligence : 18
+program : 18
+neural : 17
+networks : 17
+step : 17
+new : 16
+more : 15
+intro : 15
+programs : 14
+
+
+Page 79 : engineer : 33
+learning : 23
+selfdriving : 20
+concepts : 19
+covered : 19
+â : 16
+data : 16
+career : 15
+c : 15
+car : 15
+programs : 12
+machine : 12
+learn : 12
+program : 12
+step : 12
+cars : 11
+robotics : 11
+udacity : 10
+autonomous : 9
+intro : 9
+
+
+Page 80 : marketing : 29
+â : 28
+data : 27
+business : 24
+program : 19
+digital : 19
+product : 18
+concepts : 17
+covered : 17
+learn : 14
+more : 13
+programs : 12
+learning : 12
+analytics : 12
+strategy : 11
+new : 11
+udacity : 11
+engineer : 10
+career : 9
+search : 9
+
+
+Page 81 : data : 89
+â : 28
+concepts : 26
+covered : 25
+science : 20
+program : 19
+learning : 18
+career : 18
+business : 16
+learn : 15
+analyst : 15
+programs : 14
+programming : 14
+engineer : 14
+skills : 13
+more : 13
+sql : 13
+step : 12
+machine : 11
+new : 11
+
+
+Page 82 : developer : 57
+programming : 54
+program : 54
+android : 54
+data : 48
+concepts : 45
+covered : 44
+web : 42
+nanodegree : 41
+â : 38
+intro : 28
+algorithms : 25
+ios : 24
+learn : 23
+structures : 23
+success : 22
+intermediate : 20
+engineer : 19
+development : 18
+programs : 18
+
+
+Page 83 : cloud : 48
+udacity : 19
+engineer : 16
+â : 15
+developer : 15
+computing : 14
+aws : 14
+learn : 13
+concepts : 12
+covered : 12
+infrastructure : 11
+career : 11
+data : 11
+programs : 10
+serverless : 10
+learning : 9
+get : 8
+program : 8
+microservices : 8
+started : 7
+
+
+Page 84 : program : 503
+learn : 363
+free : 316
+skills : 260
+details : 248
+more : 246
+school : 240
+covered : 230
+data : 214
+development : 211
+programming : 205
+new : 171
+in : 164
+intermediate : 145
+with : 143
+collaboration : 142
+learning : 129
+android : 87
+business : 73
+intelligence : 65
+
+
+Page 85 : data : 50
+engineer : 32
+udacity : 27
+developer : 26
+career : 25
+business : 21
+cloud : 19
+ai : 19
+learning : 18
+product : 18
+programs : 17
+manager : 16
+analytics : 15
+programming : 14
+science : 14
+get : 14
+review : 13
+machine : 12
+linkedin : 11
+i : 11
+
+
+Page 86 : udacity : 22
+watch : 15
+now : 12
+episode : 10
+lee : 8
+astro : 8
+teller : 8
+talks : 6
+cofounder : 5
+tony : 5
+fadell : 5
+jess : 5
+developer : 5
+enterprise : 4
+blog : 4
+ceo : 4
+technology : 4
+upcoming : 4
+tech : 4
+data : 4
+
+
+Page 87 : data : 49
+engineer : 31
+developer : 26
+business : 21
+cloud : 19
+ai : 19
+product : 18
+programs : 17
+learning : 17
+manager : 16
+analytics : 15
+programming : 14
+science : 14
+machine : 12
+udacity : 11
+intro : 10
+back : 9
+menu : 9
+web : 9
+structures : 9
+
+
+Page 88 : 403 : 2
+forbidden : 2
+nginx : 1
+
+
+Page 89 : data : 50
+engineer : 32
+developer : 27
+programs : 21
+business : 21
+cloud : 19
+ai : 19
+udacity : 18
+learning : 18
+product : 18
+web : 16
+manager : 16
+science : 15
+analytics : 15
+programming : 14
+machine : 12
+intro : 11
+career : 11
+development : 10
+back : 9
+
+
+Page 90 : data : 51
+engineer : 31
+developer : 26
+learning : 23
+business : 21
+ai : 20
+cloud : 19
+product : 18
+science : 17
+programs : 17
+manager : 16
+analytics : 16
+machine : 15
+udacity : 14
+programming : 14
+algorithms : 11
+artificial : 10
+intelligence : 10
+intro : 10
+tech : 9
+
+
+Page 91 : data : 52
+engineer : 31
+developer : 28
+learning : 22
+business : 21
+udacity : 20
+cloud : 20
+ai : 19
+product : 19
+programs : 17
+manager : 16
+science : 15
+analytics : 15
+programming : 14
+machine : 13
+career : 11
+our : 11
+artificial : 10
+intelligence : 10
+intro : 10
+
+
+Page 92 : 403 : 2
+forbidden : 2
+nginx : 1
+
+
+Page 93 : we : 27
+udacity : 23
+learning : 17
+company : 14
+students : 13
+our : 9
+programs : 8
+work : 8
+data : 8
+student : 7
+enterprise : 6
+building : 6
+support : 6
+team : 6
+jobs : 5
+partners : 5
+across : 5
+business : 5
+success : 5
+s : 5
+
+
+Page 94 : udacity : 21
+mountain : 13
+view : 13
+she : 13
+university : 9
+intersect : 8
+computer : 8
+museum : 8
+shiza : 8
+2018 : 7
+learning : 7
+ca : 7
+social : 7
+world : 7
+obi : 7
+i : 7
+career : 6
+get : 6
+history : 6
+andreessen : 6
+
+
+Page 95 : data : 49
+udacity : 42
+engineer : 31
+instructors : 31
+developer : 26
+course : 26
+business : 21
+cloud : 19
+ai : 19
+product : 18
+programs : 17
+learning : 17
+manager : 16
+analytics : 15
+s : 15
+programming : 14
+science : 14
+development : 13
+instructor : 13
+machine : 12
+
+
+Page 96 : udacity : 21
+data : 15
+school : 14
+enterprise : 13
+programs : 12
+engineer : 10
+nanodegree : 9
+workforce : 8
+learning : 8
+our : 8
+ai : 8
+developer : 8
+science : 7
+machine : 6
+programming : 6
+courses : 5
+artificial : 5
+intelligence : 5
+manager : 5
+the : 5
+
+
+Page 97 : udacity : 58
+data : 53
+ai : 50
+engineer : 31
+developer : 26
+learning : 24
+business : 23
+digital : 23
+cloud : 21
+product : 21
+founder : 19
+former : 19
+programs : 18
+manager : 17
+science : 17
+sebastian : 17
+thrun : 17
+president : 17
+analytics : 15
+transformation : 15
+
+
+Page 98 : data : 49
+engineer : 31
+developer : 26
+business : 21
+cloud : 19
+ai : 19
+product : 18
+programs : 17
+learning : 17
+manager : 16
+analytics : 15
+programming : 14
+science : 14
+udacity : 12
+machine : 12
+intro : 10
+back : 9
+menu : 9
+web : 9
+structures : 9
+
+
+Page 99 : data : 51
+engineer : 31
+developer : 26
+business : 21
+programs : 19
+cloud : 19
+ai : 19
+product : 18
+learning : 17
+manager : 16
+analytics : 15
+programming : 14
+science : 14
+udacity : 12
+machine : 12
+web : 10
+intro : 10
+back : 9
+menu : 9
+structures : 9
+
+
+Page 100 : data : 49
+engineer : 31
+developer : 26
+business : 21
+cloud : 19
+ai : 19
+product : 18
+programs : 17
+learning : 17
+manager : 16
+analytics : 15
+programming : 14
+science : 14
+udacity : 12
+machine : 12
+intro : 10
+back : 9
+menu : 9
+web : 9
+structures : 9
+
+
+Page 101 : udacity : 65
+career : 53
+terms : 53
+data : 38
+nanodegree : 33
+online : 31
+become : 27
+course : 25
+engineer : 24
+cloud : 22
+learning : 22
+developer : 22
+conditions : 20
+ama : 19
+interview : 18
+courses : 17
+intro : 17
+ai : 17
+web : 16
+coach : 16
+
+
