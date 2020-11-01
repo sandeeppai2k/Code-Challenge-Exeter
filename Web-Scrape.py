@@ -318,3 +318,4 @@ print("Minimum Size : " + str(min(sizes)))
 sizes = np.array(sizes)
 avg = sum(sizes)/len(sizes)
 print("Average Size : " + str(avg))     
+
